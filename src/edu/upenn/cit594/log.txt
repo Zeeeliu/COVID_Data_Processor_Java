@@ -1,0 +1,326 @@
+2023-11-17 17:57:14 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-17 17:57:14 Opened population file: population.csv
+2023-11-17 17:58:15 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-17 17:58:15 Opened population file: population.csv
+2023-11-17 21:16:30 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-17 21:16:30 Opened population file: population.csv
+2023-11-17 21:25:20 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-17 21:25:20 Opened population file: population.csv
+2023-11-17 22:05:56 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-17 22:05:56 Opened population file: population.csv
+2023-11-17 22:17:47 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-17 22:17:47 Opened population file: population.csv
+2023-11-17 22:18:57 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-17 22:18:57 Opened population file: population.csv
+2023-11-17 22:19:46 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-17 22:19:46 Opened population file: population.csv
+2023-11-17 22:26:29 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-17 22:26:29 Opened population file: population.csv
+2023-11-17 22:33:24 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-17 22:33:24 Opened population file: population.csv
+2023-11-17 22:41:43 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-17 22:41:43 Opened population file: population.csv
+2023-11-17 22:43:50 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-17 22:43:50 Opened population file: population.csv
+2023-11-17 22:49:36 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-17 22:49:36 Opened population file: population.csv
+2023-11-17 22:52:15 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-17 22:52:15 Opened population file: population.csv
+2023-11-17 23:07:42 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-17 23:07:42 Opened population file: population.csv
+2023-11-17 23:17:03 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-17 23:17:03 Opened population file: population.csv
+2023-11-18 12:22:55 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 12:22:55 Opened population file: population.csv
+2023-11-18 12:25:10 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 12:25:10 Opened population file: population.csv
+2023-11-18 12:26:00 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 12:26:00 Opened population file: population.csv
+2023-11-18 13:46:00 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 13:46:00 Opened population file: population.csv
+2023-11-18 13:50:27 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 13:50:27 Opened population file: population.csv
+2023-11-18 14:11:20 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 14:11:20 Opened population file: population.csv
+2023-11-18 14:11:50 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 14:11:50 Opened population file: population.csv
+2023-11-18 14:39:21 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 14:39:21 Opened population file: population.csv
+2023-11-18 14:40:44 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 14:40:44 Opened population file: population.csv
+2023-11-18 14:41:45 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 14:41:45 Opened population file: population.csv
+2023-11-18 14:43:05 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 14:43:05 Opened population file: population.csv
+2023-11-18 14:43:43 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 14:43:43 Opened population file: population.csv
+2023-11-18 15:05:30 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 15:05:30 Opened population file: population.csv
+2023-11-18 15:09:52 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 15:09:52 Opened population file: population.csv
+2023-11-18 15:14:56 Command line arguments: --population=population.csv --covid=covid_data.csv --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 15:14:56 Opened population file: population.csv
+2023-11-18 15:19:16 Command line arguments: --population=population.csv --covid=covid_data.json --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 15:19:16 Opened population file: population.csv
+2023-11-18 15:22:59 Command line arguments: --population=population.csv --covid=covid_data.json --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 15:22:59 Opened population file: population.csv
+2023-11-18 15:25:24 Command line arguments: --population=population.csv --covid=covid_data.json --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 15:25:24 Opened population file: population.csv
+2023-11-18 15:39:16 Command line arguments: --population=population.csv --covid=covid_data.json --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 15:39:16 Opened population file: population.csv
+2023-11-18 15:52:52 Command line arguments: --population=population.csv --covid=covid_data.json --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 15:52:52 Opened population file: population.csv
+2023-11-18 16:06:00 Command line arguments: --population=population.csv --covid=covid_data.json --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 16:06:00 Opened population file: population.csv
+2023-11-18 16:30:47 Command line arguments: --population=population.csv --covid=covid_data.json --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 16:30:47 Opened population file: population.csv
+2023-11-18 17:01:19 Command line arguments: --population=population.csv --covid=covid_data.json --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 17:01:19 Opened population file: population.csv
+2023-11-18 17:16:03 Command line arguments: --population=population.csv --covid=covid_data.json --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 17:16:03 Opened population file: population.csv
+2023-11-18 17:17:21 Command line arguments: --population=population.csv --covid=covid_data.json --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 17:17:21 Opened population file: population.csv
+2023-11-18 17:18:51 Command line arguments: --population=population.csv --covid=covid_data.json --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 17:18:51 Opened population file: population.csv
+2023-11-18 20:53:46 Command line arguments: --population=population.csv --covid=covid_data.json --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 20:53:46 Opened population file: population.csv
+2023-11-18 21:10:13 Command line arguments: --population=population.csv --covid=covid_data.json --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 21:10:18 User input: 1
+2023-11-18 21:11:11 Command line arguments: --population=population.csv --covid=covid_data.json --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 21:11:13 User input: 1
+2023-11-18 21:11:13 Available actions: 0, 1
+2023-11-18 21:11:13 Available actions: 2
+2023-11-18 21:11:13 Available actions: 3
+2023-11-18 21:11:13 Available actions: 4
+2023-11-18 21:11:13 Available actions: 5
+2023-11-18 21:11:13 Available actions: 6
+2023-11-18 21:13:09 Command line arguments: --population=population.csv --covid=covid_data.json --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 21:13:12 User input: 1
+2023-11-18 21:13:12 Available actions: 0
+2023-11-18 21:13:12 1
+2023-11-18 21:13:12 2
+2023-11-18 21:13:12 3
+2023-11-18 21:13:12 4
+2023-11-18 21:13:12 5
+2023-11-18 21:13:12 6
+2023-11-18 21:13:22 User input: 2
+2023-11-18 21:13:22 Total population: 1603797
+2023-11-18 21:13:31 User input: 3
+2023-11-18 21:13:34 Vaccination type: full
+2023-11-18 21:13:41 Date: 2021-12-07
+2023-11-18 21:13:42 Vaccinations per capita for 19102 on 2021-12-07 16:00:01: 0.48639006342494717
+2023-11-18 21:13:42 Vaccinations per capita for 19103 on 2021-12-07 16:00:01: 0.5603649406275029
+2023-11-18 21:13:42 Vaccinations per capita for 19104 on 2021-12-07 16:00:01: 0.4761519379299425
+2023-11-18 21:13:42 Vaccinations per capita for 19106 on 2021-12-07 16:00:01: 0.4968400263331139
+2023-11-18 21:13:42 Vaccinations per capita for 19107 on 2021-12-07 16:00:01: 0.5821022727272728
+2023-11-18 21:13:42 Vaccinations per capita for 19111 on 2021-12-07 16:00:01: 0.48332512646045034
+2023-11-18 21:13:42 Vaccinations per capita for 19114 on 2021-12-07 16:00:01: 0.48816051462704857
+2023-11-18 21:13:42 Vaccinations per capita for 19115 on 2021-12-07 16:00:01: 0.49789804838664775
+2023-11-18 21:13:42 Vaccinations per capita for 19116 on 2021-12-07 16:00:01: 0.4155293456894131
+2023-11-18 21:13:42 Vaccinations per capita for 19118 on 2021-12-07 16:00:01: 0.5074781886165352
+2023-11-18 21:13:42 Vaccinations per capita for 19119 on 2021-12-07 16:00:01: 0.5381991564276545
+2023-11-18 21:13:42 Vaccinations per capita for 19120 on 2021-12-07 16:00:01: 0.4784139504661741
+2023-11-18 21:13:42 Vaccinations per capita for 19121 on 2021-12-07 16:00:01: 0.4131677791334721
+2023-11-18 21:13:42 Vaccinations per capita for 19122 on 2021-12-07 16:00:01: 0.4247787610619469
+2023-11-18 21:13:42 Vaccinations per capita for 19123 on 2021-12-07 16:00:01: 0.5424360134092481
+2023-11-18 21:13:42 Vaccinations per capita for 19124 on 2021-12-07 16:00:01: 0.45039699851670884
+2023-11-18 21:13:42 Vaccinations per capita for 19125 on 2021-12-07 16:00:01: 0.5638696939782823
+2023-11-18 21:13:42 Vaccinations per capita for 19126 on 2021-12-07 16:00:01: 0.4516368587165047
+2023-11-18 21:13:42 Vaccinations per capita for 19127 on 2021-12-07 16:00:01: 0.4202626641651032
+2023-11-18 21:13:42 Vaccinations per capita for 19128 on 2021-12-07 16:00:01: 0.48358053746374036
+2023-11-18 21:13:42 Vaccinations per capita for 19129 on 2021-12-07 16:00:01: 0.5073008656116115
+2023-11-18 21:13:42 Vaccinations per capita for 19130 on 2021-12-07 16:00:01: 0.5260031133843759
+2023-11-18 21:13:42 Vaccinations per capita for 19131 on 2021-12-07 16:00:01: 0.410209577332865
+2023-11-18 21:13:42 Vaccinations per capita for 19132 on 2021-12-07 16:00:01: 0.4410481636502977
+2023-11-18 21:13:42 Vaccinations per capita for 19133 on 2021-12-07 16:00:01: 0.4705312449539803
+2023-11-18 21:13:42 Vaccinations per capita for 19134 on 2021-12-07 16:00:01: 0.4548666098184919
+2023-11-18 21:13:42 Vaccinations per capita for 19135 on 2021-12-07 16:00:01: 0.42524419852069334
+2023-11-18 21:13:42 Vaccinations per capita for 19136 on 2021-12-07 16:00:01: 0.43891599192868636
+2023-11-18 21:13:42 Vaccinations per capita for 19137 on 2021-12-07 16:00:01: 0.4336558396682792
+2023-11-18 21:13:42 Vaccinations per capita for 19138 on 2021-12-07 16:00:01: 0.4367299471963792
+2023-11-18 21:13:42 Vaccinations per capita for 19139 on 2021-12-07 16:00:01: 0.43279961183891313
+2023-11-18 21:13:42 Vaccinations per capita for 19140 on 2021-12-07 16:00:01: 0.46293454071061313
+2023-11-18 21:13:42 Vaccinations per capita for 19141 on 2021-12-07 16:00:01: 0.4158211743485683
+2023-11-18 21:13:42 Vaccinations per capita for 19142 on 2021-12-07 16:00:01: 0.4071706409605953
+2023-11-18 21:13:42 Vaccinations per capita for 19143 on 2021-12-07 16:00:01: 0.46269026110629874
+2023-11-18 21:13:42 Vaccinations per capita for 19144 on 2021-12-07 16:00:01: 0.4374676828308716
+2023-11-18 21:13:42 Vaccinations per capita for 19145 on 2021-12-07 16:00:01: 0.5761804626266488
+2023-11-18 21:13:42 Vaccinations per capita for 19146 on 2021-12-07 16:00:01: 0.6111641221374046
+2023-11-18 21:13:42 Vaccinations per capita for 19147 on 2021-12-07 16:00:01: 0.6203280124586334
+2023-11-18 21:13:42 Vaccinations per capita for 19148 on 2021-12-07 16:00:01: 0.5894656884541277
+2023-11-18 21:13:42 Vaccinations per capita for 19149 on 2021-12-07 16:00:01: 0.4970202622169249
+2023-11-18 21:13:42 Vaccinations per capita for 19150 on 2021-12-07 16:00:01: 0.4932975871313673
+2023-11-18 21:13:42 Vaccinations per capita for 19151 on 2021-12-07 16:00:01: 0.4005395801802987
+2023-11-18 21:13:42 Vaccinations per capita for 19152 on 2021-12-07 16:00:01: 0.530840132549915
+2023-11-18 21:13:42 Vaccinations per capita for 19153 on 2021-12-07 16:00:01: 0.47375886524822697
+2023-11-18 21:13:42 Vaccinations per capita for 19154 on 2021-12-07 16:00:01: 0.4589256365156714
+2023-11-18 21:13:42 Vaccinations per capita for 19102 on 2021-12-07: 0.48639006342494717
+2023-11-18 21:13:42 Vaccinations per capita for 19103 on 2021-12-07: 0.5603649406275029
+2023-11-18 21:13:42 Vaccinations per capita for 19104 on 2021-12-07: 0.4761519379299425
+2023-11-18 21:13:42 Vaccinations per capita for 19106 on 2021-12-07: 0.4968400263331139
+2023-11-18 21:13:42 Vaccinations per capita for 19107 on 2021-12-07: 0.5821022727272728
+2023-11-18 21:13:42 Vaccinations per capita for 19111 on 2021-12-07: 0.48332512646045034
+2023-11-18 21:13:42 Vaccinations per capita for 19114 on 2021-12-07: 0.48816051462704857
+2023-11-18 21:13:42 Vaccinations per capita for 19115 on 2021-12-07: 0.49789804838664775
+2023-11-18 21:13:42 Vaccinations per capita for 19116 on 2021-12-07: 0.4155293456894131
+2023-11-18 21:13:42 Vaccinations per capita for 19118 on 2021-12-07: 0.5074781886165352
+2023-11-18 21:13:42 Vaccinations per capita for 19119 on 2021-12-07: 0.5381991564276545
+2023-11-18 21:13:42 Vaccinations per capita for 19120 on 2021-12-07: 0.4784139504661741
+2023-11-18 21:13:42 Vaccinations per capita for 19121 on 2021-12-07: 0.4131677791334721
+2023-11-18 21:13:42 Vaccinations per capita for 19122 on 2021-12-07: 0.4247787610619469
+2023-11-18 21:13:42 Vaccinations per capita for 19123 on 2021-12-07: 0.5424360134092481
+2023-11-18 21:13:42 Vaccinations per capita for 19124 on 2021-12-07: 0.45039699851670884
+2023-11-18 21:13:42 Vaccinations per capita for 19125 on 2021-12-07: 0.5638696939782823
+2023-11-18 21:13:42 Vaccinations per capita for 19126 on 2021-12-07: 0.4516368587165047
+2023-11-18 21:13:42 Vaccinations per capita for 19127 on 2021-12-07: 0.4202626641651032
+2023-11-18 21:13:42 Vaccinations per capita for 19128 on 2021-12-07: 0.48358053746374036
+2023-11-18 21:13:42 Vaccinations per capita for 19129 on 2021-12-07: 0.5073008656116115
+2023-11-18 21:13:42 Vaccinations per capita for 19130 on 2021-12-07: 0.5260031133843759
+2023-11-18 21:13:42 Vaccinations per capita for 19131 on 2021-12-07: 0.410209577332865
+2023-11-18 21:13:42 Vaccinations per capita for 19132 on 2021-12-07: 0.4410481636502977
+2023-11-18 21:13:42 Vaccinations per capita for 19133 on 2021-12-07: 0.4705312449539803
+2023-11-18 21:13:42 Vaccinations per capita for 19134 on 2021-12-07: 0.4548666098184919
+2023-11-18 21:13:42 Vaccinations per capita for 19135 on 2021-12-07: 0.42524419852069334
+2023-11-18 21:13:42 Vaccinations per capita for 19136 on 2021-12-07: 0.43891599192868636
+2023-11-18 21:13:42 Vaccinations per capita for 19137 on 2021-12-07: 0.4336558396682792
+2023-11-18 21:13:42 Vaccinations per capita for 19138 on 2021-12-07: 0.4367299471963792
+2023-11-18 21:13:42 Vaccinations per capita for 19139 on 2021-12-07: 0.43279961183891313
+2023-11-18 21:13:42 Vaccinations per capita for 19140 on 2021-12-07: 0.46293454071061313
+2023-11-18 21:13:42 Vaccinations per capita for 19141 on 2021-12-07: 0.4158211743485683
+2023-11-18 21:13:42 Vaccinations per capita for 19142 on 2021-12-07: 0.4071706409605953
+2023-11-18 21:13:42 Vaccinations per capita for 19143 on 2021-12-07: 0.46269026110629874
+2023-11-18 21:13:42 Vaccinations per capita for 19144 on 2021-12-07: 0.4374676828308716
+2023-11-18 21:13:42 Vaccinations per capita for 19145 on 2021-12-07: 0.5761804626266488
+2023-11-18 21:13:42 Vaccinations per capita for 19146 on 2021-12-07: 0.6111641221374046
+2023-11-18 21:13:42 Vaccinations per capita for 19147 on 2021-12-07: 0.6203280124586334
+2023-11-18 21:13:42 Vaccinations per capita for 19148 on 2021-12-07: 0.5894656884541277
+2023-11-18 21:13:42 Vaccinations per capita for 19149 on 2021-12-07: 0.4970202622169249
+2023-11-18 21:13:42 Vaccinations per capita for 19150 on 2021-12-07: 0.4932975871313673
+2023-11-18 21:13:42 Vaccinations per capita for 19151 on 2021-12-07: 0.4005395801802987
+2023-11-18 21:13:42 Vaccinations per capita for 19152 on 2021-12-07: 0.530840132549915
+2023-11-18 21:13:42 Vaccinations per capita for 19153 on 2021-12-07: 0.47375886524822697
+2023-11-18 21:13:42 Vaccinations per capita for 19154 on 2021-12-07: 0.4589256365156714
+2023-11-18 21:14:00 User input: 4
+2023-11-18 21:14:04 Average property metric for ZIP Code 19415: 0.0
+2023-11-18 21:14:10 User input: 4
+2023-11-18 21:14:16 Average property metric for ZIP Code 19152: 454577.1460674157
+2023-11-18 21:19:40 Command line arguments: --population=population.csv --covid=covid_data.json --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 21:19:44 User input: 4
+2023-11-18 21:19:48 Average property metric for ZIP Code 19114: 234614
+2023-11-18 21:20:07 User input: 5
+2023-11-18 21:20:09 Average property metric for ZIP Code 19114: 1711
+2023-11-18 21:20:15 User input: 6
+2023-11-18 21:20:18 Total Market Value Per Capita for ZIP Code 19114: 733.0586613570225
+2023-11-18 21:20:46 User input: 7
+2023-11-18 21:20:46 Total fully vaccinated: 1000579.0
+2023-11-18 21:21:17 Command line arguments: --population=population.csv --covid=covid_data.json --properties=downsampled_properties.csv --log=log.txt
+2023-11-18 21:21:19 User input: 7
+2023-11-18 21:21:19 Total fully vaccinated: 1000579
+2023-11-18 22:13:16 Command line arguments: --population=population.csv --covid=covid_data.json --log=log.txt
+2023-11-18 22:13:19 User input: 1
+2023-11-18 22:13:19 Available actions: 0
+2023-11-18 22:13:19 1
+2023-11-18 22:13:19 2
+2023-11-18 22:13:19 3
+2023-11-18 22:13:19 4
+2023-11-18 22:13:19 5
+2023-11-18 22:13:19 6
+2023-11-18 22:13:27 User input: 2
+2023-11-18 22:13:27 Total population: 1603797
+2023-11-18 22:13:32 User input: 3
+2023-11-18 22:13:39 Vaccination type: full
+2023-11-18 22:13:44 Date: 2021-12-07
+2023-11-18 22:13:44 Vaccinations per capita for 19102 on 2021-12-07 16:00:01: 0.4864
+2023-11-18 22:13:44 Vaccinations per capita for 19103 on 2021-12-07 16:00:01: 0.5604
+2023-11-18 22:13:44 Vaccinations per capita for 19104 on 2021-12-07 16:00:01: 0.4762
+2023-11-18 22:13:44 Vaccinations per capita for 19106 on 2021-12-07 16:00:01: 0.4968
+2023-11-18 22:13:44 Vaccinations per capita for 19107 on 2021-12-07 16:00:01: 0.5821
+2023-11-18 22:13:44 Vaccinations per capita for 19111 on 2021-12-07 16:00:01: 0.4833
+2023-11-18 22:13:44 Vaccinations per capita for 19114 on 2021-12-07 16:00:01: 0.4882
+2023-11-18 22:13:44 Vaccinations per capita for 19115 on 2021-12-07 16:00:01: 0.4979
+2023-11-18 22:13:44 Vaccinations per capita for 19116 on 2021-12-07 16:00:01: 0.4155
+2023-11-18 22:13:44 Vaccinations per capita for 19118 on 2021-12-07 16:00:01: 0.5075
+2023-11-18 22:13:44 Vaccinations per capita for 19119 on 2021-12-07 16:00:01: 0.5382
+2023-11-18 22:13:44 Vaccinations per capita for 19120 on 2021-12-07 16:00:01: 0.4784
+2023-11-18 22:13:44 Vaccinations per capita for 19121 on 2021-12-07 16:00:01: 0.4132
+2023-11-18 22:13:44 Vaccinations per capita for 19122 on 2021-12-07 16:00:01: 0.4248
+2023-11-18 22:13:44 Vaccinations per capita for 19123 on 2021-12-07 16:00:01: 0.5424
+2023-11-18 22:13:44 Vaccinations per capita for 19124 on 2021-12-07 16:00:01: 0.4504
+2023-11-18 22:13:44 Vaccinations per capita for 19125 on 2021-12-07 16:00:01: 0.5639
+2023-11-18 22:13:44 Vaccinations per capita for 19126 on 2021-12-07 16:00:01: 0.4516
+2023-11-18 22:13:44 Vaccinations per capita for 19127 on 2021-12-07 16:00:01: 0.4203
+2023-11-18 22:13:44 Vaccinations per capita for 19128 on 2021-12-07 16:00:01: 0.4836
+2023-11-18 22:13:44 Vaccinations per capita for 19129 on 2021-12-07 16:00:01: 0.5073
+2023-11-18 22:13:44 Vaccinations per capita for 19130 on 2021-12-07 16:00:01: 0.5260
+2023-11-18 22:13:44 Vaccinations per capita for 19131 on 2021-12-07 16:00:01: 0.4102
+2023-11-18 22:13:44 Vaccinations per capita for 19132 on 2021-12-07 16:00:01: 0.4410
+2023-11-18 22:13:44 Vaccinations per capita for 19133 on 2021-12-07 16:00:01: 0.4705
+2023-11-18 22:13:44 Vaccinations per capita for 19134 on 2021-12-07 16:00:01: 0.4549
+2023-11-18 22:13:44 Vaccinations per capita for 19135 on 2021-12-07 16:00:01: 0.4252
+2023-11-18 22:13:44 Vaccinations per capita for 19136 on 2021-12-07 16:00:01: 0.4389
+2023-11-18 22:13:44 Vaccinations per capita for 19137 on 2021-12-07 16:00:01: 0.4337
+2023-11-18 22:13:44 Vaccinations per capita for 19138 on 2021-12-07 16:00:01: 0.4367
+2023-11-18 22:13:44 Vaccinations per capita for 19139 on 2021-12-07 16:00:01: 0.4328
+2023-11-18 22:13:44 Vaccinations per capita for 19140 on 2021-12-07 16:00:01: 0.4629
+2023-11-18 22:13:44 Vaccinations per capita for 19141 on 2021-12-07 16:00:01: 0.4158
+2023-11-18 22:13:44 Vaccinations per capita for 19142 on 2021-12-07 16:00:01: 0.4072
+2023-11-18 22:13:44 Vaccinations per capita for 19143 on 2021-12-07 16:00:01: 0.4627
+2023-11-18 22:13:44 Vaccinations per capita for 19144 on 2021-12-07 16:00:01: 0.4375
+2023-11-18 22:13:44 Vaccinations per capita for 19145 on 2021-12-07 16:00:01: 0.5762
+2023-11-18 22:13:44 Vaccinations per capita for 19146 on 2021-12-07 16:00:01: 0.6112
+2023-11-18 22:13:44 Vaccinations per capita for 19147 on 2021-12-07 16:00:01: 0.6203
+2023-11-18 22:13:44 Vaccinations per capita for 19148 on 2021-12-07 16:00:01: 0.5895
+2023-11-18 22:13:44 Vaccinations per capita for 19149 on 2021-12-07 16:00:01: 0.4970
+2023-11-18 22:13:44 Vaccinations per capita for 19150 on 2021-12-07 16:00:01: 0.4933
+2023-11-18 22:13:44 Vaccinations per capita for 19151 on 2021-12-07 16:00:01: 0.4005
+2023-11-18 22:13:44 Vaccinations per capita for 19152 on 2021-12-07 16:00:01: 0.5308
+2023-11-18 22:13:44 Vaccinations per capita for 19153 on 2021-12-07 16:00:01: 0.4738
+2023-11-18 22:13:44 Vaccinations per capita for 19154 on 2021-12-07 16:00:01: 0.4589
+2023-11-18 22:13:44 Vaccinations per capita for 19102 on 2021-12-07: 0.48639006342494717
+2023-11-18 22:13:44 Vaccinations per capita for 19103 on 2021-12-07: 0.5603649406275029
+2023-11-18 22:13:44 Vaccinations per capita for 19104 on 2021-12-07: 0.4761519379299425
+2023-11-18 22:13:44 Vaccinations per capita for 19106 on 2021-12-07: 0.4968400263331139
+2023-11-18 22:13:44 Vaccinations per capita for 19107 on 2021-12-07: 0.5821022727272728
+2023-11-18 22:13:44 Vaccinations per capita for 19111 on 2021-12-07: 0.48332512646045034
+2023-11-18 22:13:44 Vaccinations per capita for 19114 on 2021-12-07: 0.48816051462704857
+2023-11-18 22:13:44 Vaccinations per capita for 19115 on 2021-12-07: 0.49789804838664775
+2023-11-18 22:13:44 Vaccinations per capita for 19116 on 2021-12-07: 0.4155293456894131
+2023-11-18 22:13:44 Vaccinations per capita for 19118 on 2021-12-07: 0.5074781886165352
+2023-11-18 22:13:44 Vaccinations per capita for 19119 on 2021-12-07: 0.5381991564276545
+2023-11-18 22:13:44 Vaccinations per capita for 19120 on 2021-12-07: 0.4784139504661741
+2023-11-18 22:13:44 Vaccinations per capita for 19121 on 2021-12-07: 0.4131677791334721
+2023-11-18 22:13:44 Vaccinations per capita for 19122 on 2021-12-07: 0.4247787610619469
+2023-11-18 22:13:44 Vaccinations per capita for 19123 on 2021-12-07: 0.5424360134092481
+2023-11-18 22:13:44 Vaccinations per capita for 19124 on 2021-12-07: 0.45039699851670884
+2023-11-18 22:13:44 Vaccinations per capita for 19125 on 2021-12-07: 0.5638696939782823
+2023-11-18 22:13:44 Vaccinations per capita for 19126 on 2021-12-07: 0.4516368587165047
+2023-11-18 22:13:44 Vaccinations per capita for 19127 on 2021-12-07: 0.4202626641651032
+2023-11-18 22:13:44 Vaccinations per capita for 19128 on 2021-12-07: 0.48358053746374036
+2023-11-18 22:13:44 Vaccinations per capita for 19129 on 2021-12-07: 0.5073008656116115
+2023-11-18 22:13:44 Vaccinations per capita for 19130 on 2021-12-07: 0.5260031133843759
+2023-11-18 22:13:44 Vaccinations per capita for 19131 on 2021-12-07: 0.410209577332865
+2023-11-18 22:13:44 Vaccinations per capita for 19132 on 2021-12-07: 0.4410481636502977
+2023-11-18 22:13:44 Vaccinations per capita for 19133 on 2021-12-07: 0.4705312449539803
+2023-11-18 22:13:44 Vaccinations per capita for 19134 on 2021-12-07: 0.4548666098184919
+2023-11-18 22:13:44 Vaccinations per capita for 19135 on 2021-12-07: 0.42524419852069334
+2023-11-18 22:13:44 Vaccinations per capita for 19136 on 2021-12-07: 0.43891599192868636
+2023-11-18 22:13:44 Vaccinations per capita for 19137 on 2021-12-07: 0.4336558396682792
+2023-11-18 22:13:44 Vaccinations per capita for 19138 on 2021-12-07: 0.4367299471963792
+2023-11-18 22:13:44 Vaccinations per capita for 19139 on 2021-12-07: 0.43279961183891313
+2023-11-18 22:13:44 Vaccinations per capita for 19140 on 2021-12-07: 0.46293454071061313
+2023-11-18 22:13:44 Vaccinations per capita for 19141 on 2021-12-07: 0.4158211743485683
+2023-11-18 22:13:44 Vaccinations per capita for 19142 on 2021-12-07: 0.4071706409605953
+2023-11-18 22:13:44 Vaccinations per capita for 19143 on 2021-12-07: 0.46269026110629874
+2023-11-18 22:13:44 Vaccinations per capita for 19144 on 2021-12-07: 0.4374676828308716
+2023-11-18 22:13:44 Vaccinations per capita for 19145 on 2021-12-07: 0.5761804626266488
+2023-11-18 22:13:44 Vaccinations per capita for 19146 on 2021-12-07: 0.6111641221374046
+2023-11-18 22:13:44 Vaccinations per capita for 19147 on 2021-12-07: 0.6203280124586334
+2023-11-18 22:13:44 Vaccinations per capita for 19148 on 2021-12-07: 0.5894656884541277
+2023-11-18 22:13:44 Vaccinations per capita for 19149 on 2021-12-07: 0.4970202622169249
+2023-11-18 22:13:44 Vaccinations per capita for 19150 on 2021-12-07: 0.4932975871313673
+2023-11-18 22:13:44 Vaccinations per capita for 19151 on 2021-12-07: 0.4005395801802987
+2023-11-18 22:13:44 Vaccinations per capita for 19152 on 2021-12-07: 0.530840132549915
+2023-11-18 22:13:44 Vaccinations per capita for 19153 on 2021-12-07: 0.47375886524822697
+2023-11-18 22:13:44 Vaccinations per capita for 19154 on 2021-12-07: 0.4589256365156714
+2023-11-18 22:14:03 User input: 4
+2023-11-18 22:14:06 Average property metric for ZIP Code 19114: 0
