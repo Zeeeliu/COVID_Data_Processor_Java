@@ -1,17 +1,27 @@
 package edu.upenn.cit594.datamanagement;
 
+import edu.upenn.cit594.util.validateData;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
-
 import java.io.FileReader;
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * Read vaccination data from a JSON file.
+ * The class implements DataReader interface for the Vaccination data type.
+ */
 public class JsonVaccinationReader implements DataReader<Vaccination> {
 
+    /**
+     * Reads vaccination data from a JSON file. Any incomplete record, invalid zip code, or invalid timestamp
+     * will be skipped.
+     *
+     * @param fileName The name of the JSON file to read from.
+     * @return A list of Vaccination objects parsed from the file.
+     */
     @Override
     public List<Vaccination> readData(String fileName) {
         List<Vaccination> vaccinations = new ArrayList<>();
@@ -25,19 +35,19 @@ public class JsonVaccinationReader implements DataReader<Vaccination> {
                 JSONObject jsonObject = iterator.next();
 
                 String zipCode = String.valueOf(jsonObject.get("zip_code"));
-                if (!isValidZipCode(zipCode)) {
+                if (!validateData.isValidZipCode(zipCode)) {
                     continue;  // Skip invalid ZIP Code
                 }
 
-                int neg = parseIntOrZero(jsonObject.get("NEG"));
-                int pos = parseIntOrZero(jsonObject.get("POS"));
-                int deaths = parseIntOrZero(jsonObject.get("deaths"));
-                int hospitalized = parseIntOrZero(jsonObject.get("hospitalized"));
-                int partiallyVaccinated = parseIntOrZero(jsonObject.get("partially_vaccinated"));
-                int fullyVaccinated = parseIntOrZero(jsonObject.get("fully_vaccinated"));
-                int boosted = parseIntOrZero(jsonObject.get("boosted"));
+                int neg = validateData.parseIntOrZero(jsonObject.get("NEG"));
+                int pos = validateData.parseIntOrZero(jsonObject.get("POS"));
+                int deaths = validateData.parseIntOrZero(jsonObject.get("deaths"));
+                int hospitalized = validateData.parseIntOrZero(jsonObject.get("hospitalized"));
+                int partiallyVaccinated = validateData.parseIntOrZero(jsonObject.get("partially_vaccinated"));
+                int fullyVaccinated = validateData.parseIntOrZero(jsonObject.get("fully_vaccinated"));
+                int boosted = validateData.parseIntOrZero(jsonObject.get("boosted"));
                 String etlTimestamp = (String) jsonObject.get("etl_timestamp");
-                if (!isValidTimestamp(etlTimestamp)) {
+                if (!validateData.isValidTimestamp(etlTimestamp)) {
                     continue;  // Skip invalid timestamp
                 }
 
@@ -46,37 +56,9 @@ public class JsonVaccinationReader implements DataReader<Vaccination> {
                 vaccinations.add(vaccination);
             }
         } catch (Exception e) {
-            System.err.println("Error reading vaccination data: " + e.getMessage());
+            System.err.println("Error reading vaccination data from JSON file " + fileName + ": " + e.getMessage());
         }
 
         return vaccinations;
-    }
-
-    private int parseIntOrZero(Object value) {
-        try {
-            if (value != null) {
-                return Integer.parseInt(value.toString());
-            } else {
-                return 0;
-            }
-        } catch (NumberFormatException e) {
-            return 0;
-        }
-    }
-
-
-    private boolean isValidZipCode(String zipCode) {
-        return zipCode.matches("\\d{5}");
-    }
-
-    private boolean isValidTimestamp(String timestamp) {
-        try {
-            timestamp = timestamp.replace("\"", "");
-            // 使用SimpleDateFormat验证时间戳格式
-            new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").parse(timestamp);
-            return true;
-        } catch (Exception e) {
-            return false;
-        }
     }
 }

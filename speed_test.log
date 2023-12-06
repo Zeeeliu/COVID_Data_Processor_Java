@@ -120,3 +120,56 @@
 2023-11-20 00:13:57 User input: 2
 2023-11-20 00:13:57 Total population: 1603797
 2023-11-20 00:13:57 User input: 0
+2023-12-02 09:30:55 Command line arguments: --log=speed_test.log --covid=covid_data.json --properties=properties.csv --population=population.csv
+2023-12-02 09:30:55 Population data loaded from population.csv
+2023-12-02 09:30:55 Vaccination data file: covid_data.json
+2023-12-02 09:30:57 Property data loaded from properties.csv
+2023-12-02 09:30:57 User input: 2
+2023-12-02 09:30:57 Total population: 1603797
+2023-12-02 09:30:57 User input: 0
+2023-12-02 16:57:20 Command line arguments: --log=speed_test.log --covid=covid_data.json --properties=properties.csv --population=population.csv
+2023-12-02 16:57:20 Population data loaded from population.csv
+2023-12-02 16:57:20 Vaccination data file: covid_data.json
+2023-12-02 16:57:21 Property data loaded from properties.csv
+2023-12-02 16:57:21 User input: 2
+2023-12-02 16:57:21 Total population: 1603797
+2023-12-02 16:57:21 User input: 0
+2023-12-03 00:06:32 Command line arguments: --log=speed_test.log --covid=covid_data.json --properties=properties.csv --population=population.csv
+2023-12-03 00:06:32 Population data loaded from population.csv
+2023-12-03 00:06:32 Vaccination data file: covid_data.json
+2023-12-03 00:06:33 Property data loaded from properties.csv
+2023-12-03 00:06:33 User input: 2
+2023-12-03 00:06:33 Total population: 0
+2023-12-03 00:06:33 User input: 0
+2023-12-04 07:55:27 Command line arguments: --log=speed_test.log --covid=covid_data.json --properties=properties.csv --population=population.csv
+2023-12-04 07:55:27 Population data loaded from population.csv
+2023-12-04 07:55:27 Vaccination data file: covid_data.json
+2023-12-04 07:55:28 Property data loaded from properties.csv
+2023-12-04 07:55:28 User input: 2
+2023-12-04 07:55:28 Total population: 0
+2023-12-04 07:55:28 User input: 0
+2023-12-04 08:01:07 Command line arguments: --log=speed_test.log --covid=covid_data.json --properties=properties.csv --population=population.csv
+2023-12-04 08:01:07 Population data loaded from population.csv
+2023-12-04 08:01:08 Vaccination data file: covid_data.json
+2023-12-04 08:01:09 Property data loaded from properties.csv
+2023-12-04 13:09:10 Command line arguments: --log=speed_test.log --covid=covid_data.json --properties=properties.csv --population=population.csv
+2023-12-04 13:09:10 Population data loaded from population.csv
+2023-12-04 13:09:10 Vaccination data file: covid_data.json
+2023-12-04 13:09:11 Property data loaded from properties.csv
+2023-12-04 13:09:11 User input: 2
+2023-12-04 13:09:11 Total population: 1603797
+2023-12-04 13:09:11 User input: 0
+2023-12-05 00:57:05 Command line arguments: --log=speed_test.log --covid=covid_data.json --properties=properties.csv --population=population.csv
+2023-12-05 00:57:05 Population data loaded from population.csv
+2023-12-05 00:57:05 Vaccination data file: covid_data.json
+2023-12-05 00:57:11 Property data loaded from properties.csv
+2023-12-05 00:57:11 User input: 2
+2023-12-05 00:57:11 Total population: 1603797
+2023-12-05 00:57:11 User input: 0
+2023-12-05 21:28:18 Command line arguments: --log=speed_test.log --covid=covid_data.json --properties=properties.csv --population=population.csv
+2023-12-05 21:28:18 Population data loaded from population.csv
+2023-12-05 21:28:18 Vaccination data file: covid_data.json
+2023-12-05 21:28:21 Property data loaded from properties.csv
+2023-12-05 21:28:21 User input: 2
+2023-12-05 21:28:21 Total population: 1603797
+2023-12-05 21:28:21 User input: 0

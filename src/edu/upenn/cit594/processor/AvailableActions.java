@@ -1,5 +1,9 @@
 package edu.upenn.cit594.processor;
 
+/**
+ * Enumerates the available actions in the application, each with a specific action number
+ * and any required data parameters.
+ */
 public enum AvailableActions {
     EXIT(0),
     SHOW_AVAILABLE_ACTIONS(1),
@@ -13,6 +17,12 @@ public enum AvailableActions {
     private final int actionNumber;
     private final String[] requiredParameters;
 
+    /**
+     * Constructs an AvailableAction with the specified action number and required parameters.
+     *
+     * @param actionNumber The number associated with the action.
+     * @param requiredParameters The names of the required parameter for this action.
+     */
     AvailableActions(int actionNumber, String... requiredParameters) {
         this.actionNumber = actionNumber;
         this.requiredParameters = requiredParameters;

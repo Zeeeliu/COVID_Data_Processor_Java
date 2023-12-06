@@ -3,18 +3,13 @@ package edu.upenn.cit594;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
-import java.io.BufferedReader;
-import java.io.ByteArrayInputStream;
-import java.io.ByteArrayOutputStream;
-import java.io.InputStream;
-import java.io.PrintStream;
-import java.io.StringReader;
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.io.*;
+import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
+
+import edu.upenn.cit594.datamanagement.CSVReader;
+import edu.upenn.cit594.datamanagement.CSVFormatException;
 
 import org.junit.After;
 import org.junit.Before;
@@ -121,7 +116,9 @@ public class BasicTests {
 			} else if (state == 1) {
 				if (line.equals("END OUTPUT")) {
 					state = 2;
-					listOfItems.add(items);
+					if (!items.isEmpty()) {
+						listOfItems.add(items);
+					}
 					items = new ArrayList<>();
 				} else
 					items.add(line);
@@ -149,7 +146,7 @@ public class BasicTests {
 		assertTrue("Repeated execution failed", sResult1.equals(sResult2));
 
 		/*
-		 * This only checks the rough line formatting, not the exact format and not the
+		 * checks the rough line formatting, not the exact format and not the
 		 * values be sure to write more tests of your own
 		 */
 		for (String line : sResult1) {
@@ -164,16 +161,63 @@ public class BasicTests {
 		System.out.println("Current memory used (MiB): " + (Runtime.getRuntime().totalMemory() >> 20));
 		String[] args = new String[] { "--log=activities.test.log.txt", "--covid=covid_data.csv",
 				"--properties=properties.csv", "--population=population.csv" };
-		String[] activities = new String[] { "1", "2", "3\nfull\n2021-05-01", "4\n19149", "5\n19149", "6\n19149" };
+		String[] activities = new String[] { "1", "2", "3\nfull\n2021-05-01", "4\n19149", "5\n19149", "6\n19149", "7" };
 		String results = runMain(args, Stream.of(activities).collect(Collectors.joining("\n")) + "\n0\n");
 		List<List<String>> mResults1 = extractResultsMulti(results);
 		List<List<String>> mResults2 = new ArrayList<>();
 		for (String act : activities) {
 			mResults2.add(extractResults(runMain(args, act + "\n0\n")));
 		}
-
 		assertTrue("Output differed", mResults1.equals(mResults2));
 		System.out.println("Current memory used (MiB): " + (Runtime.getRuntime().totalMemory() >> 20));
 		System.out.println("Max memory used (MiB): " + (Runtime.getRuntime().maxMemory() >> 20));
+	}
+
+	@Test(timeout = 600000)
+	public void testNoLoggerOutputProvided() throws Exception {
+		System.gc();
+		System.out.println("Current memory used (MiB): " + (Runtime.getRuntime().totalMemory() >> 20));
+		String[] args = new String[] { "--covid=covid_data.csv",
+				"--properties=properties.csv", "--population=population.csv" };
+		String[] activities = new String[] { "1", "2", "3\nfull\n2021-05-01", "4\n19149", "5\n19149", "6\n19149", "7" };
+		String results = runMain(args, Stream.of(activities).collect(Collectors.joining("\n")) + "\n0\n");
+		List<List<String>> mResults1 = extractResultsMulti(results);
+		List<List<String>> mResults2 = new ArrayList<>();
+		for (String act : activities) {
+			mResults2.add(extractResults(runMain(args, act + "\n0\n")));
+		}
+		mResults1.equals(mResults2);
+		assertTrue("Output differed", mResults1.equals(mResults2));
+		System.out.println("Current memory used (MiB): " + (Runtime.getRuntime().totalMemory() >> 20));
+		System.out.println("Max memory used (MiB): " + (Runtime.getRuntime().maxMemory() >> 20));
+	}
+
+
+	@Test(timeout = 600000)
+	public void csvReaderTest() throws Exception {
+		try (CSVReader csvReader = new CSVReader("properties.csv")) {
+			String[] row;
+			while ((row = csvReader.readRow()) != null) {
+				System.out.println(Arrays.toString(row));
+			}
+
+		} catch (CSVFormatException | IOException e) {
+			System.out.println(e);
+		}
+	}
+
+	@Test(timeout = 600000)
+	public void csvReaderDictTest() throws Exception {
+		try (CSVReader csvReader = new CSVReader("properties.csv")) {
+			Map<String, String> rowDict;
+			while ((rowDict = csvReader.readRowAsDict()) != null) {
+				// For demonstration, printing each key-value pair in the dictionary
+				rowDict.forEach((key, value) -> System.out.println(key + ": " + value));
+				System.out.println("------------"); // Separator for each row
+			}
+
+		} catch (CSVFormatException | IOException e) {
+			System.out.println(e);
+		}
 	}
 }

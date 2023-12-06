@@ -1429,3 +1429,1329 @@
 2023-11-20 00:13:57 Vaccinations per capita for 19196 on 2021-11-05: 0.0
 2023-11-20 00:13:57 Vaccinations per capita for 19197 on 2021-11-05: 0.0
 2023-11-20 00:13:57 User input: 0
+2023-12-02 09:30:57 Command line arguments: --covid=covid_data.json --population=population.csv --log=small_test1.log
+2023-12-02 09:30:57 Population data loaded from population.csv
+2023-12-02 09:30:57 Vaccination data file: covid_data.json
+2023-12-02 09:30:57 Property data loaded from null
+2023-12-02 09:30:57 User input: 3
+2023-12-02 09:30:57 Vaccination type: 
+2023-12-02 09:30:57 Vaccination type: full
+2023-12-02 09:30:57 Date: 2021-11-05
+2023-12-02 09:30:57 Vaccinations per capita for 19100 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19101 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19102 on 2021-11-05 15:00:02: 0.4851
+2023-12-02 09:30:57 Vaccinations per capita for 19103 on 2021-11-05 15:00:02: 0.5488
+2023-12-02 09:30:57 Vaccinations per capita for 19104 on 2021-11-05 15:00:02: 0.4623
+2023-12-02 09:30:57 Vaccinations per capita for 19105 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19106 on 2021-11-05 15:00:02: 0.4836
+2023-12-02 09:30:57 Vaccinations per capita for 19107 on 2021-11-05 15:00:02: 0.5716
+2023-12-02 09:30:57 Vaccinations per capita for 19108 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19109 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19110 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19111 on 2021-11-05 15:00:02: 0.4575
+2023-12-02 09:30:57 Vaccinations per capita for 19112 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19113 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19114 on 2021-11-05 15:00:02: 0.4634
+2023-12-02 09:30:57 Vaccinations per capita for 19115 on 2021-11-05 15:00:02: 0.4785
+2023-12-02 09:30:57 Vaccinations per capita for 19116 on 2021-11-05 15:00:02: 0.3955
+2023-12-02 09:30:57 Vaccinations per capita for 19117 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19118 on 2021-11-05 15:00:02: 0.4870
+2023-12-02 09:30:57 Vaccinations per capita for 19119 on 2021-11-05 15:00:02: 0.5061
+2023-12-02 09:30:57 Vaccinations per capita for 19120 on 2021-11-05 15:00:02: 0.4396
+2023-12-02 09:30:57 Vaccinations per capita for 19121 on 2021-11-05 15:00:02: 0.3834
+2023-12-02 09:30:57 Vaccinations per capita for 19122 on 2021-11-05 15:00:02: 0.4058
+2023-12-02 09:30:57 Vaccinations per capita for 19123 on 2021-11-05 15:00:02: 0.5255
+2023-12-02 09:30:57 Vaccinations per capita for 19124 on 2021-11-05 15:00:02: 0.4166
+2023-12-02 09:30:57 Vaccinations per capita for 19125 on 2021-11-05 15:00:02: 0.5467
+2023-12-02 09:30:57 Vaccinations per capita for 19126 on 2021-11-05 15:00:02: 0.4250
+2023-12-02 09:30:57 Vaccinations per capita for 19127 on 2021-11-05 15:00:02: 0.4122
+2023-12-02 09:30:57 Vaccinations per capita for 19128 on 2021-11-05 15:00:02: 0.4670
+2023-12-02 09:30:57 Vaccinations per capita for 19129 on 2021-11-05 15:00:02: 0.4826
+2023-12-02 09:30:57 Vaccinations per capita for 19130 on 2021-11-05 15:00:02: 0.5077
+2023-12-02 09:30:57 Vaccinations per capita for 19131 on 2021-11-05 15:00:02: 0.3843
+2023-12-02 09:30:57 Vaccinations per capita for 19132 on 2021-11-05 15:00:02: 0.3977
+2023-12-02 09:30:57 Vaccinations per capita for 19133 on 2021-11-05 15:00:02: 0.4308
+2023-12-02 09:30:57 Vaccinations per capita for 19134 on 2021-11-05 15:00:02: 0.4204
+2023-12-02 09:30:57 Vaccinations per capita for 19135 on 2021-11-05 15:00:02: 0.3940
+2023-12-02 09:30:57 Vaccinations per capita for 19136 on 2021-11-05 15:00:02: 0.4145
+2023-12-02 09:30:57 Vaccinations per capita for 19137 on 2021-11-05 15:00:02: 0.4018
+2023-12-02 09:30:57 Vaccinations per capita for 19138 on 2021-11-05 15:00:02: 0.4014
+2023-12-02 09:30:57 Vaccinations per capita for 19139 on 2021-11-05 15:00:02: 0.3955
+2023-12-02 09:30:57 Vaccinations per capita for 19140 on 2021-11-05 15:00:02: 0.4235
+2023-12-02 09:30:57 Vaccinations per capita for 19141 on 2021-11-05 15:00:02: 0.3803
+2023-12-02 09:30:57 Vaccinations per capita for 19142 on 2021-11-05 15:00:02: 0.3719
+2023-12-02 09:30:57 Vaccinations per capita for 19143 on 2021-11-05 15:00:02: 0.4309
+2023-12-02 09:30:57 Vaccinations per capita for 19144 on 2021-11-05 15:00:02: 0.4063
+2023-12-02 09:30:57 Vaccinations per capita for 19145 on 2021-11-05 15:00:02: 0.5481
+2023-12-02 09:30:57 Vaccinations per capita for 19146 on 2021-11-05 15:00:02: 0.5854
+2023-12-02 09:30:57 Vaccinations per capita for 19147 on 2021-11-05 15:00:02: 0.5897
+2023-12-02 09:30:57 Vaccinations per capita for 19148 on 2021-11-05 15:00:02: 0.5642
+2023-12-02 09:30:57 Vaccinations per capita for 19149 on 2021-11-05 15:00:02: 0.4701
+2023-12-02 09:30:57 Vaccinations per capita for 19150 on 2021-11-05 15:00:02: 0.4686
+2023-12-02 09:30:57 Vaccinations per capita for 19151 on 2021-11-05 15:00:02: 0.3754
+2023-12-02 09:30:57 Vaccinations per capita for 19152 on 2021-11-05 15:00:02: 0.5040
+2023-12-02 09:30:57 Vaccinations per capita for 19153 on 2021-11-05 15:00:02: 0.4362
+2023-12-02 09:30:57 Vaccinations per capita for 19154 on 2021-11-05 15:00:02: 0.4342
+2023-12-02 09:30:57 Vaccinations per capita for 19155 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19156 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19157 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19158 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19160 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19161 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19162 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19170 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19171 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19172 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19174 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19176 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19177 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19178 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19179 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19181 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19182 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19183 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19184 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19188 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19190 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19191 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19192 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19193 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19194 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19195 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19196 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19197 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 09:30:57 Vaccinations per capita for 19100 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19101 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19102 on 2021-11-05: 0.485068710359408
+2023-12-02 09:30:57 Vaccinations per capita for 19103 on 2021-11-05: 0.5488038444127172
+2023-12-02 09:30:57 Vaccinations per capita for 19104 on 2021-11-05: 0.46230581115079433
+2023-12-02 09:30:57 Vaccinations per capita for 19105 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19106 on 2021-11-05: 0.4836076366030283
+2023-12-02 09:30:57 Vaccinations per capita for 19107 on 2021-11-05: 0.571590909090909
+2023-12-02 09:30:57 Vaccinations per capita for 19108 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19109 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19110 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19111 on 2021-11-05: 0.45745109449841087
+2023-12-02 09:30:57 Vaccinations per capita for 19112 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19113 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19114 on 2021-11-05: 0.4633787716342472
+2023-12-02 09:30:57 Vaccinations per capita for 19115 on 2021-11-05: 0.4785489573763189
+2023-12-02 09:30:57 Vaccinations per capita for 19116 on 2021-11-05: 0.3954507160909857
+2023-12-02 09:30:57 Vaccinations per capita for 19117 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19118 on 2021-11-05: 0.4870170336518488
+2023-12-02 09:30:57 Vaccinations per capita for 19119 on 2021-11-05: 0.5061067302402348
+2023-12-02 09:30:57 Vaccinations per capita for 19120 on 2021-11-05: 0.43962403856324705
+2023-12-02 09:30:57 Vaccinations per capita for 19121 on 2021-11-05: 0.38340630158616235
+2023-12-02 09:30:57 Vaccinations per capita for 19122 on 2021-11-05: 0.4058422078896055
+2023-12-02 09:30:57 Vaccinations per capita for 19123 on 2021-11-05: 0.5255148193476294
+2023-12-02 09:30:57 Vaccinations per capita for 19124 on 2021-11-05: 0.4166303114911439
+2023-12-02 09:30:57 Vaccinations per capita for 19125 on 2021-11-05: 0.5467324777887463
+2023-12-02 09:30:57 Vaccinations per capita for 19126 on 2021-11-05: 0.42502630113249584
+2023-12-02 09:30:57 Vaccinations per capita for 19127 on 2021-11-05: 0.41218068985423584
+2023-12-02 09:30:57 Vaccinations per capita for 19128 on 2021-11-05: 0.4669968803021181
+2023-12-02 09:30:57 Vaccinations per capita for 19129 on 2021-11-05: 0.48264405001311533
+2023-12-02 09:30:57 Vaccinations per capita for 19130 on 2021-11-05: 0.5077040378689202
+2023-12-02 09:30:57 Vaccinations per capita for 19131 on 2021-11-05: 0.3843109706123405
+2023-12-02 09:30:57 Vaccinations per capita for 19132 on 2021-11-05: 0.39771856393326654
+2023-12-02 09:30:57 Vaccinations per capita for 19133 on 2021-11-05: 0.43076860972065234
+2023-12-02 09:30:57 Vaccinations per capita for 19134 on 2021-11-05: 0.4203574474009363
+2023-12-02 09:30:57 Vaccinations per capita for 19135 on 2021-11-05: 0.39399243408051493
+2023-12-02 09:30:57 Vaccinations per capita for 19136 on 2021-11-05: 0.4144721718474624
+2023-12-02 09:30:57 Vaccinations per capita for 19137 on 2021-11-05: 0.40175074867542043
+2023-12-02 09:30:57 Vaccinations per capita for 19138 on 2021-11-05: 0.40143324113653506
+2023-12-02 09:30:57 Vaccinations per capita for 19139 on 2021-11-05: 0.3954853168826968
+2023-12-02 09:30:57 Vaccinations per capita for 19140 on 2021-11-05: 0.42349013889954723
+2023-12-02 09:30:57 Vaccinations per capita for 19141 on 2021-11-05: 0.38029439237285406
+2023-12-02 09:30:57 Vaccinations per capita for 19142 on 2021-11-05: 0.37189244038559105
+2023-12-02 09:30:57 Vaccinations per capita for 19143 on 2021-11-05: 0.4308717980447964
+2023-12-02 09:30:57 Vaccinations per capita for 19144 on 2021-11-05: 0.4062858299049032
+2023-12-02 09:30:57 Vaccinations per capita for 19145 on 2021-11-05: 0.5480787612311222
+2023-12-02 09:30:57 Vaccinations per capita for 19146 on 2021-11-05: 0.5854007633587787
+2023-12-02 09:30:57 Vaccinations per capita for 19147 on 2021-11-05: 0.5897410940237493
+2023-12-02 09:30:57 Vaccinations per capita for 19148 on 2021-11-05: 0.5641951978657181
+2023-12-02 09:30:57 Vaccinations per capita for 19149 on 2021-11-05: 0.47010329757647995
+2023-12-02 09:30:57 Vaccinations per capita for 19150 on 2021-11-05: 0.46860676295079134
+2023-12-02 09:30:57 Vaccinations per capita for 19151 on 2021-11-05: 0.37537013884319276
+2023-12-02 09:30:57 Vaccinations per capita for 19152 on 2021-11-05: 0.503995990086603
+2023-12-02 09:30:57 Vaccinations per capita for 19153 on 2021-11-05: 0.4362119315811431
+2023-12-02 09:30:57 Vaccinations per capita for 19154 on 2021-11-05: 0.43418586545947346
+2023-12-02 09:30:57 Vaccinations per capita for 19155 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19156 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19157 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19158 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19160 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19161 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19162 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19170 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19171 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19172 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19174 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19176 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19177 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19178 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19179 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19181 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19182 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19183 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19184 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19188 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19190 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19191 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19192 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19193 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19194 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19195 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19196 on 2021-11-05: 0.0
+2023-12-02 09:30:57 Vaccinations per capita for 19197 on 2021-11-05: 0.0
+2023-12-02 09:30:57 User input: 0
+2023-12-02 16:57:21 Command line arguments: --covid=covid_data.json --population=population.csv --log=small_test1.log
+2023-12-02 16:57:21 Population data loaded from population.csv
+2023-12-02 16:57:22 Vaccination data file: covid_data.json
+2023-12-02 16:57:22 Property data loaded from null
+2023-12-02 16:57:22 User input: 3
+2023-12-02 16:57:22 Vaccination type: 
+2023-12-02 16:57:22 Vaccination type: full
+2023-12-02 16:57:22 Date: 2021-11-05
+2023-12-02 16:57:22 Vaccinations per capita for 19100 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19101 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19102 on 2021-11-05 15:00:02: 0.4851
+2023-12-02 16:57:22 Vaccinations per capita for 19103 on 2021-11-05 15:00:02: 0.5488
+2023-12-02 16:57:22 Vaccinations per capita for 19104 on 2021-11-05 15:00:02: 0.4623
+2023-12-02 16:57:22 Vaccinations per capita for 19105 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19106 on 2021-11-05 15:00:02: 0.4836
+2023-12-02 16:57:22 Vaccinations per capita for 19107 on 2021-11-05 15:00:02: 0.5716
+2023-12-02 16:57:22 Vaccinations per capita for 19108 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19109 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19110 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19111 on 2021-11-05 15:00:02: 0.4575
+2023-12-02 16:57:22 Vaccinations per capita for 19112 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19113 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19114 on 2021-11-05 15:00:02: 0.4634
+2023-12-02 16:57:22 Vaccinations per capita for 19115 on 2021-11-05 15:00:02: 0.4785
+2023-12-02 16:57:22 Vaccinations per capita for 19116 on 2021-11-05 15:00:02: 0.3955
+2023-12-02 16:57:22 Vaccinations per capita for 19117 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19118 on 2021-11-05 15:00:02: 0.4870
+2023-12-02 16:57:22 Vaccinations per capita for 19119 on 2021-11-05 15:00:02: 0.5061
+2023-12-02 16:57:22 Vaccinations per capita for 19120 on 2021-11-05 15:00:02: 0.4396
+2023-12-02 16:57:22 Vaccinations per capita for 19121 on 2021-11-05 15:00:02: 0.3834
+2023-12-02 16:57:22 Vaccinations per capita for 19122 on 2021-11-05 15:00:02: 0.4058
+2023-12-02 16:57:22 Vaccinations per capita for 19123 on 2021-11-05 15:00:02: 0.5255
+2023-12-02 16:57:22 Vaccinations per capita for 19124 on 2021-11-05 15:00:02: 0.4166
+2023-12-02 16:57:22 Vaccinations per capita for 19125 on 2021-11-05 15:00:02: 0.5467
+2023-12-02 16:57:22 Vaccinations per capita for 19126 on 2021-11-05 15:00:02: 0.4250
+2023-12-02 16:57:22 Vaccinations per capita for 19127 on 2021-11-05 15:00:02: 0.4122
+2023-12-02 16:57:22 Vaccinations per capita for 19128 on 2021-11-05 15:00:02: 0.4670
+2023-12-02 16:57:22 Vaccinations per capita for 19129 on 2021-11-05 15:00:02: 0.4826
+2023-12-02 16:57:22 Vaccinations per capita for 19130 on 2021-11-05 15:00:02: 0.5077
+2023-12-02 16:57:22 Vaccinations per capita for 19131 on 2021-11-05 15:00:02: 0.3843
+2023-12-02 16:57:22 Vaccinations per capita for 19132 on 2021-11-05 15:00:02: 0.3977
+2023-12-02 16:57:22 Vaccinations per capita for 19133 on 2021-11-05 15:00:02: 0.4308
+2023-12-02 16:57:22 Vaccinations per capita for 19134 on 2021-11-05 15:00:02: 0.4204
+2023-12-02 16:57:22 Vaccinations per capita for 19135 on 2021-11-05 15:00:02: 0.3940
+2023-12-02 16:57:22 Vaccinations per capita for 19136 on 2021-11-05 15:00:02: 0.4145
+2023-12-02 16:57:22 Vaccinations per capita for 19137 on 2021-11-05 15:00:02: 0.4018
+2023-12-02 16:57:22 Vaccinations per capita for 19138 on 2021-11-05 15:00:02: 0.4014
+2023-12-02 16:57:22 Vaccinations per capita for 19139 on 2021-11-05 15:00:02: 0.3955
+2023-12-02 16:57:22 Vaccinations per capita for 19140 on 2021-11-05 15:00:02: 0.4235
+2023-12-02 16:57:22 Vaccinations per capita for 19141 on 2021-11-05 15:00:02: 0.3803
+2023-12-02 16:57:22 Vaccinations per capita for 19142 on 2021-11-05 15:00:02: 0.3719
+2023-12-02 16:57:22 Vaccinations per capita for 19143 on 2021-11-05 15:00:02: 0.4309
+2023-12-02 16:57:22 Vaccinations per capita for 19144 on 2021-11-05 15:00:02: 0.4063
+2023-12-02 16:57:22 Vaccinations per capita for 19145 on 2021-11-05 15:00:02: 0.5481
+2023-12-02 16:57:22 Vaccinations per capita for 19146 on 2021-11-05 15:00:02: 0.5854
+2023-12-02 16:57:22 Vaccinations per capita for 19147 on 2021-11-05 15:00:02: 0.5897
+2023-12-02 16:57:22 Vaccinations per capita for 19148 on 2021-11-05 15:00:02: 0.5642
+2023-12-02 16:57:22 Vaccinations per capita for 19149 on 2021-11-05 15:00:02: 0.4701
+2023-12-02 16:57:22 Vaccinations per capita for 19150 on 2021-11-05 15:00:02: 0.4686
+2023-12-02 16:57:22 Vaccinations per capita for 19151 on 2021-11-05 15:00:02: 0.3754
+2023-12-02 16:57:22 Vaccinations per capita for 19152 on 2021-11-05 15:00:02: 0.5040
+2023-12-02 16:57:22 Vaccinations per capita for 19153 on 2021-11-05 15:00:02: 0.4362
+2023-12-02 16:57:22 Vaccinations per capita for 19154 on 2021-11-05 15:00:02: 0.4342
+2023-12-02 16:57:22 Vaccinations per capita for 19155 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19156 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19157 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19158 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19160 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19161 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19162 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19170 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19171 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19172 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19174 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19176 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19177 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19178 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19179 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19181 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19182 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19183 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19184 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19188 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19190 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19191 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19192 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19193 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19194 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19195 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19196 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19197 on 2021-11-05 15:00:02: 0.0000
+2023-12-02 16:57:22 Vaccinations per capita for 19100 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19101 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19102 on 2021-11-05: 0.485068710359408
+2023-12-02 16:57:22 Vaccinations per capita for 19103 on 2021-11-05: 0.5488038444127172
+2023-12-02 16:57:22 Vaccinations per capita for 19104 on 2021-11-05: 0.46230581115079433
+2023-12-02 16:57:22 Vaccinations per capita for 19105 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19106 on 2021-11-05: 0.4836076366030283
+2023-12-02 16:57:22 Vaccinations per capita for 19107 on 2021-11-05: 0.571590909090909
+2023-12-02 16:57:22 Vaccinations per capita for 19108 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19109 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19110 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19111 on 2021-11-05: 0.45745109449841087
+2023-12-02 16:57:22 Vaccinations per capita for 19112 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19113 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19114 on 2021-11-05: 0.4633787716342472
+2023-12-02 16:57:22 Vaccinations per capita for 19115 on 2021-11-05: 0.4785489573763189
+2023-12-02 16:57:22 Vaccinations per capita for 19116 on 2021-11-05: 0.3954507160909857
+2023-12-02 16:57:22 Vaccinations per capita for 19117 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19118 on 2021-11-05: 0.4870170336518488
+2023-12-02 16:57:22 Vaccinations per capita for 19119 on 2021-11-05: 0.5061067302402348
+2023-12-02 16:57:22 Vaccinations per capita for 19120 on 2021-11-05: 0.43962403856324705
+2023-12-02 16:57:22 Vaccinations per capita for 19121 on 2021-11-05: 0.38340630158616235
+2023-12-02 16:57:22 Vaccinations per capita for 19122 on 2021-11-05: 0.4058422078896055
+2023-12-02 16:57:22 Vaccinations per capita for 19123 on 2021-11-05: 0.5255148193476294
+2023-12-02 16:57:22 Vaccinations per capita for 19124 on 2021-11-05: 0.4166303114911439
+2023-12-02 16:57:22 Vaccinations per capita for 19125 on 2021-11-05: 0.5467324777887463
+2023-12-02 16:57:22 Vaccinations per capita for 19126 on 2021-11-05: 0.42502630113249584
+2023-12-02 16:57:22 Vaccinations per capita for 19127 on 2021-11-05: 0.41218068985423584
+2023-12-02 16:57:22 Vaccinations per capita for 19128 on 2021-11-05: 0.4669968803021181
+2023-12-02 16:57:22 Vaccinations per capita for 19129 on 2021-11-05: 0.48264405001311533
+2023-12-02 16:57:22 Vaccinations per capita for 19130 on 2021-11-05: 0.5077040378689202
+2023-12-02 16:57:22 Vaccinations per capita for 19131 on 2021-11-05: 0.3843109706123405
+2023-12-02 16:57:22 Vaccinations per capita for 19132 on 2021-11-05: 0.39771856393326654
+2023-12-02 16:57:22 Vaccinations per capita for 19133 on 2021-11-05: 0.43076860972065234
+2023-12-02 16:57:22 Vaccinations per capita for 19134 on 2021-11-05: 0.4203574474009363
+2023-12-02 16:57:22 Vaccinations per capita for 19135 on 2021-11-05: 0.39399243408051493
+2023-12-02 16:57:22 Vaccinations per capita for 19136 on 2021-11-05: 0.4144721718474624
+2023-12-02 16:57:22 Vaccinations per capita for 19137 on 2021-11-05: 0.40175074867542043
+2023-12-02 16:57:22 Vaccinations per capita for 19138 on 2021-11-05: 0.40143324113653506
+2023-12-02 16:57:22 Vaccinations per capita for 19139 on 2021-11-05: 0.3954853168826968
+2023-12-02 16:57:22 Vaccinations per capita for 19140 on 2021-11-05: 0.42349013889954723
+2023-12-02 16:57:22 Vaccinations per capita for 19141 on 2021-11-05: 0.38029439237285406
+2023-12-02 16:57:22 Vaccinations per capita for 19142 on 2021-11-05: 0.37189244038559105
+2023-12-02 16:57:22 Vaccinations per capita for 19143 on 2021-11-05: 0.4308717980447964
+2023-12-02 16:57:22 Vaccinations per capita for 19144 on 2021-11-05: 0.4062858299049032
+2023-12-02 16:57:22 Vaccinations per capita for 19145 on 2021-11-05: 0.5480787612311222
+2023-12-02 16:57:22 Vaccinations per capita for 19146 on 2021-11-05: 0.5854007633587787
+2023-12-02 16:57:22 Vaccinations per capita for 19147 on 2021-11-05: 0.5897410940237493
+2023-12-02 16:57:22 Vaccinations per capita for 19148 on 2021-11-05: 0.5641951978657181
+2023-12-02 16:57:22 Vaccinations per capita for 19149 on 2021-11-05: 0.47010329757647995
+2023-12-02 16:57:22 Vaccinations per capita for 19150 on 2021-11-05: 0.46860676295079134
+2023-12-02 16:57:22 Vaccinations per capita for 19151 on 2021-11-05: 0.37537013884319276
+2023-12-02 16:57:22 Vaccinations per capita for 19152 on 2021-11-05: 0.503995990086603
+2023-12-02 16:57:22 Vaccinations per capita for 19153 on 2021-11-05: 0.4362119315811431
+2023-12-02 16:57:22 Vaccinations per capita for 19154 on 2021-11-05: 0.43418586545947346
+2023-12-02 16:57:22 Vaccinations per capita for 19155 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19156 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19157 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19158 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19160 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19161 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19162 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19170 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19171 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19172 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19174 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19176 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19177 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19178 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19179 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19181 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19182 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19183 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19184 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19188 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19190 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19191 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19192 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19193 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19194 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19195 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19196 on 2021-11-05: 0.0
+2023-12-02 16:57:22 Vaccinations per capita for 19197 on 2021-11-05: 0.0
+2023-12-02 16:57:22 User input: 0
+2023-12-03 00:06:33 Command line arguments: --covid=covid_data.json --population=population.csv --log=small_test1.log
+2023-12-03 00:06:33 Population data loaded from population.csv
+2023-12-03 00:06:33 Vaccination data file: covid_data.json
+2023-12-03 00:06:33 Property data loaded from null
+2023-12-03 00:06:33 User input: 3
+2023-12-03 00:06:33 Vaccination type: 
+2023-12-03 00:06:33 Vaccination type: full
+2023-12-03 00:06:33 Date: 2021-11-05
+2023-12-03 00:06:33 Vaccinations per capita for 19100 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19101 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19102 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19103 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19104 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19105 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19106 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19107 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19108 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19109 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19110 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19111 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19112 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19113 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19114 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19115 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19116 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19117 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19118 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19119 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19120 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19121 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19122 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19123 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19124 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19125 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19126 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19127 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19128 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19129 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19130 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19131 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19132 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19133 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19134 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19135 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19136 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19137 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19138 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19139 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19140 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19141 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19142 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19143 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19144 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19145 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19146 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19147 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19148 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19149 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19150 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19151 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19152 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19153 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19154 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19155 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19156 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19157 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19158 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19160 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19161 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19162 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19170 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19171 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19172 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19174 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19176 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19177 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19178 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19179 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19181 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19182 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19183 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19184 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19188 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19190 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19191 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19192 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19193 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19194 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19195 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19196 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19197 on 2021-11-05 15:00:02: 0.0000
+2023-12-03 00:06:33 Vaccinations per capita for 19100 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19101 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19102 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19103 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19104 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19105 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19106 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19107 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19108 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19109 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19110 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19111 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19112 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19113 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19114 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19115 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19116 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19117 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19118 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19119 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19120 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19121 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19122 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19123 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19124 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19125 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19126 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19127 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19128 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19129 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19130 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19131 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19132 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19133 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19134 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19135 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19136 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19137 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19138 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19139 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19140 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19141 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19142 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19143 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19144 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19145 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19146 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19147 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19148 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19149 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19150 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19151 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19152 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19153 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19154 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19155 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19156 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19157 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19158 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19160 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19161 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19162 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19170 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19171 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19172 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19174 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19176 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19177 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19178 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19179 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19181 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19182 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19183 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19184 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19188 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19190 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19191 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19192 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19193 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19194 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19195 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19196 on 2021-11-05: 0.0
+2023-12-03 00:06:33 Vaccinations per capita for 19197 on 2021-11-05: 0.0
+2023-12-03 00:06:33 User input: 0
+2023-12-04 05:59:17 Command line arguments: --covid=covid_data.json --population=population.csv --log=small_test1.log
+2023-12-04 05:59:17 Population data loaded from population.csv
+2023-12-04 05:59:17 Vaccination data file: covid_data.json
+2023-12-04 05:59:17 Property data loaded from null
+2023-12-04 05:59:17 User input: 3
+2023-12-04 05:59:17 Vaccination type: 
+2023-12-04 05:59:17 Vaccination type: full
+2023-12-04 05:59:17 Date: 2021-11-05
+2023-12-04 05:59:17 Vaccinations per capita for 19100 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19101 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19102 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19103 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19104 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19105 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19106 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19107 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19108 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19109 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19110 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19111 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19112 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19113 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19114 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19115 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19116 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19117 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19118 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19119 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19120 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19121 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19122 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19123 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19124 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19125 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19126 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19127 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19128 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19129 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19130 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19131 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19132 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19133 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19134 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19135 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19136 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19137 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19138 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19139 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19140 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19141 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19142 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19143 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19144 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19145 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19146 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19147 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19148 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19149 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19150 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19151 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19152 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19153 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19154 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19155 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19156 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19157 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19158 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19160 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19161 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19162 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19170 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19171 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19172 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19174 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19176 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19177 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19178 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19179 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19181 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19182 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19183 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19184 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19188 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19190 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19191 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19192 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19193 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19194 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19195 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19196 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19197 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 05:59:17 Vaccinations per capita for 19100 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19101 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19102 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19103 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19104 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19105 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19106 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19107 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19108 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19109 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19110 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19111 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19112 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19113 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19114 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19115 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19116 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19117 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19118 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19119 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19120 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19121 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19122 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19123 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19124 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19125 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19126 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19127 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19128 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19129 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19130 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19131 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19132 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19133 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19134 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19135 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19136 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19137 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19138 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19139 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19140 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19141 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19142 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19143 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19144 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19145 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19146 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19147 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19148 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19149 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19150 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19151 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19152 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19153 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19154 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19155 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19156 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19157 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19158 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19160 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19161 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19162 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19170 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19171 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19172 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19174 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19176 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19177 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19178 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19179 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19181 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19182 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19183 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19184 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19188 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19190 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19191 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19192 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19193 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19194 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19195 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19196 on 2021-11-05: 0.0
+2023-12-04 05:59:17 Vaccinations per capita for 19197 on 2021-11-05: 0.0
+2023-12-04 05:59:17 User input: 0
+2023-12-04 07:55:28 Command line arguments: --covid=covid_data.json --population=population.csv --log=small_test1.log
+2023-12-04 07:55:28 Population data loaded from population.csv
+2023-12-04 07:55:28 Vaccination data file: covid_data.json
+2023-12-04 07:55:28 Property data loaded from null
+2023-12-04 07:55:28 User input: 3
+2023-12-04 07:55:28 Vaccination type: 
+2023-12-04 07:55:28 Vaccination type: full
+2023-12-04 07:55:28 Date: 2021-11-05
+2023-12-04 07:55:28 Vaccinations per capita for 19100 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19101 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19102 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19103 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19104 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19105 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19106 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19107 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19108 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19109 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19110 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19111 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19112 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19113 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19114 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19115 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19116 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19117 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19118 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19119 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19120 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19121 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19122 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19123 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19124 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19125 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19126 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19127 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19128 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19129 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19130 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19131 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19132 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19133 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19134 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19135 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19136 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19137 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19138 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19139 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19140 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19141 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19142 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19143 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19144 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19145 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19146 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19147 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19148 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19149 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19150 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19151 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19152 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19153 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19154 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19155 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19156 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19157 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19158 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19160 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19161 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19162 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19170 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19171 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19172 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19174 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19176 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19177 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19178 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19179 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19181 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19182 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19183 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19184 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19188 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19190 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19191 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19192 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19193 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19194 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19195 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19196 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19197 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 07:55:28 Vaccinations per capita for 19100 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19101 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19102 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19103 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19104 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19105 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19106 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19107 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19108 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19109 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19110 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19111 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19112 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19113 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19114 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19115 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19116 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19117 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19118 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19119 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19120 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19121 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19122 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19123 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19124 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19125 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19126 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19127 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19128 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19129 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19130 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19131 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19132 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19133 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19134 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19135 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19136 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19137 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19138 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19139 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19140 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19141 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19142 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19143 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19144 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19145 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19146 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19147 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19148 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19149 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19150 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19151 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19152 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19153 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19154 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19155 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19156 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19157 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19158 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19160 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19161 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19162 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19170 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19171 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19172 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19174 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19176 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19177 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19178 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19179 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19181 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19182 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19183 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19184 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19188 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19190 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19191 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19192 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19193 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19194 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19195 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19196 on 2021-11-05: 0.0
+2023-12-04 07:55:28 Vaccinations per capita for 19197 on 2021-11-05: 0.0
+2023-12-04 07:55:28 User input: 0
+2023-12-04 13:09:11 Command line arguments: --covid=covid_data.json --population=population.csv --log=small_test1.log
+2023-12-04 13:09:11 Population data loaded from population.csv
+2023-12-04 13:09:11 Vaccination data file: covid_data.json
+2023-12-04 13:09:11 Property data loaded from null
+2023-12-04 13:09:11 User input: 3
+2023-12-04 13:09:11 Vaccination type: 
+2023-12-04 13:09:11 Vaccination type: full
+2023-12-04 13:09:11 Date: 2021-11-05
+2023-12-04 13:09:11 Vaccinations per capita for 19100 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19101 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19102 on 2021-11-05 15:00:02: 0.4851
+2023-12-04 13:09:11 Vaccinations per capita for 19103 on 2021-11-05 15:00:02: 0.5488
+2023-12-04 13:09:11 Vaccinations per capita for 19104 on 2021-11-05 15:00:02: 0.4623
+2023-12-04 13:09:11 Vaccinations per capita for 19105 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19106 on 2021-11-05 15:00:02: 0.4836
+2023-12-04 13:09:11 Vaccinations per capita for 19107 on 2021-11-05 15:00:02: 0.5716
+2023-12-04 13:09:11 Vaccinations per capita for 19108 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19109 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19110 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19111 on 2021-11-05 15:00:02: 0.4575
+2023-12-04 13:09:11 Vaccinations per capita for 19112 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19113 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19114 on 2021-11-05 15:00:02: 0.4634
+2023-12-04 13:09:11 Vaccinations per capita for 19115 on 2021-11-05 15:00:02: 0.4785
+2023-12-04 13:09:11 Vaccinations per capita for 19116 on 2021-11-05 15:00:02: 0.3955
+2023-12-04 13:09:11 Vaccinations per capita for 19117 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19118 on 2021-11-05 15:00:02: 0.4870
+2023-12-04 13:09:11 Vaccinations per capita for 19119 on 2021-11-05 15:00:02: 0.5061
+2023-12-04 13:09:11 Vaccinations per capita for 19120 on 2021-11-05 15:00:02: 0.4396
+2023-12-04 13:09:11 Vaccinations per capita for 19121 on 2021-11-05 15:00:02: 0.3834
+2023-12-04 13:09:11 Vaccinations per capita for 19122 on 2021-11-05 15:00:02: 0.4058
+2023-12-04 13:09:11 Vaccinations per capita for 19123 on 2021-11-05 15:00:02: 0.5255
+2023-12-04 13:09:11 Vaccinations per capita for 19124 on 2021-11-05 15:00:02: 0.4166
+2023-12-04 13:09:11 Vaccinations per capita for 19125 on 2021-11-05 15:00:02: 0.5467
+2023-12-04 13:09:11 Vaccinations per capita for 19126 on 2021-11-05 15:00:02: 0.4250
+2023-12-04 13:09:11 Vaccinations per capita for 19127 on 2021-11-05 15:00:02: 0.4122
+2023-12-04 13:09:11 Vaccinations per capita for 19128 on 2021-11-05 15:00:02: 0.4670
+2023-12-04 13:09:11 Vaccinations per capita for 19129 on 2021-11-05 15:00:02: 0.4826
+2023-12-04 13:09:11 Vaccinations per capita for 19130 on 2021-11-05 15:00:02: 0.5077
+2023-12-04 13:09:11 Vaccinations per capita for 19131 on 2021-11-05 15:00:02: 0.3843
+2023-12-04 13:09:11 Vaccinations per capita for 19132 on 2021-11-05 15:00:02: 0.3977
+2023-12-04 13:09:11 Vaccinations per capita for 19133 on 2021-11-05 15:00:02: 0.4308
+2023-12-04 13:09:11 Vaccinations per capita for 19134 on 2021-11-05 15:00:02: 0.4204
+2023-12-04 13:09:11 Vaccinations per capita for 19135 on 2021-11-05 15:00:02: 0.3940
+2023-12-04 13:09:11 Vaccinations per capita for 19136 on 2021-11-05 15:00:02: 0.4145
+2023-12-04 13:09:11 Vaccinations per capita for 19137 on 2021-11-05 15:00:02: 0.4018
+2023-12-04 13:09:11 Vaccinations per capita for 19138 on 2021-11-05 15:00:02: 0.4014
+2023-12-04 13:09:11 Vaccinations per capita for 19139 on 2021-11-05 15:00:02: 0.3955
+2023-12-04 13:09:11 Vaccinations per capita for 19140 on 2021-11-05 15:00:02: 0.4235
+2023-12-04 13:09:11 Vaccinations per capita for 19141 on 2021-11-05 15:00:02: 0.3803
+2023-12-04 13:09:11 Vaccinations per capita for 19142 on 2021-11-05 15:00:02: 0.3719
+2023-12-04 13:09:11 Vaccinations per capita for 19143 on 2021-11-05 15:00:02: 0.4309
+2023-12-04 13:09:11 Vaccinations per capita for 19144 on 2021-11-05 15:00:02: 0.4063
+2023-12-04 13:09:11 Vaccinations per capita for 19145 on 2021-11-05 15:00:02: 0.5481
+2023-12-04 13:09:11 Vaccinations per capita for 19146 on 2021-11-05 15:00:02: 0.5854
+2023-12-04 13:09:11 Vaccinations per capita for 19147 on 2021-11-05 15:00:02: 0.5897
+2023-12-04 13:09:11 Vaccinations per capita for 19148 on 2021-11-05 15:00:02: 0.5642
+2023-12-04 13:09:11 Vaccinations per capita for 19149 on 2021-11-05 15:00:02: 0.4701
+2023-12-04 13:09:11 Vaccinations per capita for 19150 on 2021-11-05 15:00:02: 0.4686
+2023-12-04 13:09:11 Vaccinations per capita for 19151 on 2021-11-05 15:00:02: 0.3754
+2023-12-04 13:09:11 Vaccinations per capita for 19152 on 2021-11-05 15:00:02: 0.5040
+2023-12-04 13:09:11 Vaccinations per capita for 19153 on 2021-11-05 15:00:02: 0.4362
+2023-12-04 13:09:11 Vaccinations per capita for 19154 on 2021-11-05 15:00:02: 0.4342
+2023-12-04 13:09:11 Vaccinations per capita for 19155 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19156 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19157 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19158 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19160 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19161 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19162 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19170 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19171 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19172 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19174 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19176 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19177 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19178 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19179 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19181 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19182 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19183 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19184 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19188 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19190 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19191 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19192 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19193 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19194 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19195 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19196 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19197 on 2021-11-05 15:00:02: 0.0000
+2023-12-04 13:09:11 Vaccinations per capita for 19100 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19101 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19102 on 2021-11-05: 0.485068710359408
+2023-12-04 13:09:11 Vaccinations per capita for 19103 on 2021-11-05: 0.5488038444127172
+2023-12-04 13:09:11 Vaccinations per capita for 19104 on 2021-11-05: 0.46230581115079433
+2023-12-04 13:09:11 Vaccinations per capita for 19105 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19106 on 2021-11-05: 0.4836076366030283
+2023-12-04 13:09:11 Vaccinations per capita for 19107 on 2021-11-05: 0.571590909090909
+2023-12-04 13:09:11 Vaccinations per capita for 19108 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19109 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19110 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19111 on 2021-11-05: 0.45745109449841087
+2023-12-04 13:09:11 Vaccinations per capita for 19112 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19113 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19114 on 2021-11-05: 0.4633787716342472
+2023-12-04 13:09:11 Vaccinations per capita for 19115 on 2021-11-05: 0.4785489573763189
+2023-12-04 13:09:11 Vaccinations per capita for 19116 on 2021-11-05: 0.3954507160909857
+2023-12-04 13:09:11 Vaccinations per capita for 19117 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19118 on 2021-11-05: 0.4870170336518488
+2023-12-04 13:09:11 Vaccinations per capita for 19119 on 2021-11-05: 0.5061067302402348
+2023-12-04 13:09:11 Vaccinations per capita for 19120 on 2021-11-05: 0.43962403856324705
+2023-12-04 13:09:11 Vaccinations per capita for 19121 on 2021-11-05: 0.38340630158616235
+2023-12-04 13:09:11 Vaccinations per capita for 19122 on 2021-11-05: 0.4058422078896055
+2023-12-04 13:09:11 Vaccinations per capita for 19123 on 2021-11-05: 0.5255148193476294
+2023-12-04 13:09:11 Vaccinations per capita for 19124 on 2021-11-05: 0.4166303114911439
+2023-12-04 13:09:11 Vaccinations per capita for 19125 on 2021-11-05: 0.5467324777887463
+2023-12-04 13:09:11 Vaccinations per capita for 19126 on 2021-11-05: 0.42502630113249584
+2023-12-04 13:09:11 Vaccinations per capita for 19127 on 2021-11-05: 0.41218068985423584
+2023-12-04 13:09:11 Vaccinations per capita for 19128 on 2021-11-05: 0.4669968803021181
+2023-12-04 13:09:11 Vaccinations per capita for 19129 on 2021-11-05: 0.48264405001311533
+2023-12-04 13:09:11 Vaccinations per capita for 19130 on 2021-11-05: 0.5077040378689202
+2023-12-04 13:09:11 Vaccinations per capita for 19131 on 2021-11-05: 0.3843109706123405
+2023-12-04 13:09:11 Vaccinations per capita for 19132 on 2021-11-05: 0.39771856393326654
+2023-12-04 13:09:11 Vaccinations per capita for 19133 on 2021-11-05: 0.43076860972065234
+2023-12-04 13:09:11 Vaccinations per capita for 19134 on 2021-11-05: 0.4203574474009363
+2023-12-04 13:09:11 Vaccinations per capita for 19135 on 2021-11-05: 0.39399243408051493
+2023-12-04 13:09:11 Vaccinations per capita for 19136 on 2021-11-05: 0.4144721718474624
+2023-12-04 13:09:11 Vaccinations per capita for 19137 on 2021-11-05: 0.40175074867542043
+2023-12-04 13:09:11 Vaccinations per capita for 19138 on 2021-11-05: 0.40143324113653506
+2023-12-04 13:09:11 Vaccinations per capita for 19139 on 2021-11-05: 0.3954853168826968
+2023-12-04 13:09:11 Vaccinations per capita for 19140 on 2021-11-05: 0.42349013889954723
+2023-12-04 13:09:11 Vaccinations per capita for 19141 on 2021-11-05: 0.38029439237285406
+2023-12-04 13:09:11 Vaccinations per capita for 19142 on 2021-11-05: 0.37189244038559105
+2023-12-04 13:09:11 Vaccinations per capita for 19143 on 2021-11-05: 0.4308717980447964
+2023-12-04 13:09:11 Vaccinations per capita for 19144 on 2021-11-05: 0.4062858299049032
+2023-12-04 13:09:11 Vaccinations per capita for 19145 on 2021-11-05: 0.5480787612311222
+2023-12-04 13:09:11 Vaccinations per capita for 19146 on 2021-11-05: 0.5854007633587787
+2023-12-04 13:09:11 Vaccinations per capita for 19147 on 2021-11-05: 0.5897410940237493
+2023-12-04 13:09:11 Vaccinations per capita for 19148 on 2021-11-05: 0.5641951978657181
+2023-12-04 13:09:11 Vaccinations per capita for 19149 on 2021-11-05: 0.47010329757647995
+2023-12-04 13:09:11 Vaccinations per capita for 19150 on 2021-11-05: 0.46860676295079134
+2023-12-04 13:09:11 Vaccinations per capita for 19151 on 2021-11-05: 0.37537013884319276
+2023-12-04 13:09:11 Vaccinations per capita for 19152 on 2021-11-05: 0.503995990086603
+2023-12-04 13:09:11 Vaccinations per capita for 19153 on 2021-11-05: 0.4362119315811431
+2023-12-04 13:09:11 Vaccinations per capita for 19154 on 2021-11-05: 0.43418586545947346
+2023-12-04 13:09:11 Vaccinations per capita for 19155 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19156 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19157 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19158 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19160 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19161 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19162 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19170 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19171 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19172 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19174 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19176 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19177 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19178 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19179 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19181 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19182 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19183 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19184 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19188 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19190 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19191 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19192 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19193 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19194 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19195 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19196 on 2021-11-05: 0.0
+2023-12-04 13:09:11 Vaccinations per capita for 19197 on 2021-11-05: 0.0
+2023-12-04 13:09:11 User input: 0
+2023-12-05 20:42:59 Command line arguments: --covid=covid_data.json --population=population.csv --log=small_test1.log
+2023-12-05 20:42:59 Population data loaded from population.csv
+2023-12-05 20:42:59 Vaccination data file: covid_data.json
+2023-12-05 20:42:59 Property data loaded from null
+2023-12-05 20:42:59 User input: 3
+2023-12-05 20:42:59 Vaccination type: 
+2023-12-05 20:42:59 Vaccination type: full
+2023-12-05 20:42:59 Date: 2021-11-05
+2023-12-05 20:42:59 Vaccinations per capita for 19100 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19101 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19102 on 2021-11-05 15:00:02: 0.4851
+2023-12-05 20:42:59 Vaccinations per capita for 19103 on 2021-11-05 15:00:02: 0.5488
+2023-12-05 20:42:59 Vaccinations per capita for 19104 on 2021-11-05 15:00:02: 0.4623
+2023-12-05 20:42:59 Vaccinations per capita for 19105 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19106 on 2021-11-05 15:00:02: 0.4836
+2023-12-05 20:42:59 Vaccinations per capita for 19107 on 2021-11-05 15:00:02: 0.5716
+2023-12-05 20:42:59 Vaccinations per capita for 19108 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19109 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19110 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19111 on 2021-11-05 15:00:02: 0.4575
+2023-12-05 20:42:59 Vaccinations per capita for 19112 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19113 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19114 on 2021-11-05 15:00:02: 0.4634
+2023-12-05 20:42:59 Vaccinations per capita for 19115 on 2021-11-05 15:00:02: 0.4785
+2023-12-05 20:42:59 Vaccinations per capita for 19116 on 2021-11-05 15:00:02: 0.3955
+2023-12-05 20:42:59 Vaccinations per capita for 19117 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19118 on 2021-11-05 15:00:02: 0.4870
+2023-12-05 20:42:59 Vaccinations per capita for 19119 on 2021-11-05 15:00:02: 0.5061
+2023-12-05 20:42:59 Vaccinations per capita for 19120 on 2021-11-05 15:00:02: 0.4396
+2023-12-05 20:42:59 Vaccinations per capita for 19121 on 2021-11-05 15:00:02: 0.3834
+2023-12-05 20:42:59 Vaccinations per capita for 19122 on 2021-11-05 15:00:02: 0.4058
+2023-12-05 20:42:59 Vaccinations per capita for 19123 on 2021-11-05 15:00:02: 0.5255
+2023-12-05 20:42:59 Vaccinations per capita for 19124 on 2021-11-05 15:00:02: 0.4166
+2023-12-05 20:42:59 Vaccinations per capita for 19125 on 2021-11-05 15:00:02: 0.5467
+2023-12-05 20:42:59 Vaccinations per capita for 19126 on 2021-11-05 15:00:02: 0.4250
+2023-12-05 20:42:59 Vaccinations per capita for 19127 on 2021-11-05 15:00:02: 0.4122
+2023-12-05 20:42:59 Vaccinations per capita for 19128 on 2021-11-05 15:00:02: 0.4670
+2023-12-05 20:42:59 Vaccinations per capita for 19129 on 2021-11-05 15:00:02: 0.4826
+2023-12-05 20:42:59 Vaccinations per capita for 19130 on 2021-11-05 15:00:02: 0.5077
+2023-12-05 20:42:59 Vaccinations per capita for 19131 on 2021-11-05 15:00:02: 0.3843
+2023-12-05 20:42:59 Vaccinations per capita for 19132 on 2021-11-05 15:00:02: 0.3977
+2023-12-05 20:42:59 Vaccinations per capita for 19133 on 2021-11-05 15:00:02: 0.4308
+2023-12-05 20:42:59 Vaccinations per capita for 19134 on 2021-11-05 15:00:02: 0.4204
+2023-12-05 20:42:59 Vaccinations per capita for 19135 on 2021-11-05 15:00:02: 0.3940
+2023-12-05 20:42:59 Vaccinations per capita for 19136 on 2021-11-05 15:00:02: 0.4145
+2023-12-05 20:42:59 Vaccinations per capita for 19137 on 2021-11-05 15:00:02: 0.4018
+2023-12-05 20:42:59 Vaccinations per capita for 19138 on 2021-11-05 15:00:02: 0.4014
+2023-12-05 20:42:59 Vaccinations per capita for 19139 on 2021-11-05 15:00:02: 0.3955
+2023-12-05 20:42:59 Vaccinations per capita for 19140 on 2021-11-05 15:00:02: 0.4235
+2023-12-05 20:42:59 Vaccinations per capita for 19141 on 2021-11-05 15:00:02: 0.3803
+2023-12-05 20:42:59 Vaccinations per capita for 19142 on 2021-11-05 15:00:02: 0.3719
+2023-12-05 20:42:59 Vaccinations per capita for 19143 on 2021-11-05 15:00:02: 0.4309
+2023-12-05 20:42:59 Vaccinations per capita for 19144 on 2021-11-05 15:00:02: 0.4063
+2023-12-05 20:42:59 Vaccinations per capita for 19145 on 2021-11-05 15:00:02: 0.5481
+2023-12-05 20:42:59 Vaccinations per capita for 19146 on 2021-11-05 15:00:02: 0.5854
+2023-12-05 20:42:59 Vaccinations per capita for 19147 on 2021-11-05 15:00:02: 0.5897
+2023-12-05 20:42:59 Vaccinations per capita for 19148 on 2021-11-05 15:00:02: 0.5642
+2023-12-05 20:42:59 Vaccinations per capita for 19149 on 2021-11-05 15:00:02: 0.4701
+2023-12-05 20:42:59 Vaccinations per capita for 19150 on 2021-11-05 15:00:02: 0.4686
+2023-12-05 20:42:59 Vaccinations per capita for 19151 on 2021-11-05 15:00:02: 0.3754
+2023-12-05 20:42:59 Vaccinations per capita for 19152 on 2021-11-05 15:00:02: 0.5040
+2023-12-05 20:42:59 Vaccinations per capita for 19153 on 2021-11-05 15:00:02: 0.4362
+2023-12-05 20:42:59 Vaccinations per capita for 19154 on 2021-11-05 15:00:02: 0.4342
+2023-12-05 20:42:59 Vaccinations per capita for 19155 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19156 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19157 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19158 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19160 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19161 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19162 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19170 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19171 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19172 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19174 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19176 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19177 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19178 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19179 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19181 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19182 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19183 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19184 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19188 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19190 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19191 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19192 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19193 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19194 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19195 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19196 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 Vaccinations per capita for 19197 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 20:42:59 User input: 0
+2023-12-05 21:18:19 Command line arguments: --covid=covid_data.json --population=population.csv --log=small_test1.log
+2023-12-05 21:18:19 Population data loaded from population.csv
+2023-12-05 21:18:20 Vaccination data file: covid_data.json
+2023-12-05 21:18:20 Property data loaded from null
+2023-12-05 21:18:20 User input: 3
+2023-12-05 21:18:20 Vaccination type: 
+2023-12-05 21:18:20 Vaccination type: full
+2023-12-05 21:18:20 Date: 2021-11-05
+2023-12-05 21:18:20 Vaccinations per capita for 19100 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19101 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19102 on 2021-11-05 15:00:02: 0.4851
+2023-12-05 21:18:20 Vaccinations per capita for 19103 on 2021-11-05 15:00:02: 0.5488
+2023-12-05 21:18:20 Vaccinations per capita for 19104 on 2021-11-05 15:00:02: 0.4623
+2023-12-05 21:18:20 Vaccinations per capita for 19105 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19106 on 2021-11-05 15:00:02: 0.4836
+2023-12-05 21:18:20 Vaccinations per capita for 19107 on 2021-11-05 15:00:02: 0.5716
+2023-12-05 21:18:20 Vaccinations per capita for 19108 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19109 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19110 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19111 on 2021-11-05 15:00:02: 0.4575
+2023-12-05 21:18:20 Vaccinations per capita for 19112 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19113 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19114 on 2021-11-05 15:00:02: 0.4634
+2023-12-05 21:18:20 Vaccinations per capita for 19115 on 2021-11-05 15:00:02: 0.4785
+2023-12-05 21:18:20 Vaccinations per capita for 19116 on 2021-11-05 15:00:02: 0.3955
+2023-12-05 21:18:20 Vaccinations per capita for 19117 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19118 on 2021-11-05 15:00:02: 0.4870
+2023-12-05 21:18:20 Vaccinations per capita for 19119 on 2021-11-05 15:00:02: 0.5061
+2023-12-05 21:18:20 Vaccinations per capita for 19120 on 2021-11-05 15:00:02: 0.4396
+2023-12-05 21:18:20 Vaccinations per capita for 19121 on 2021-11-05 15:00:02: 0.3834
+2023-12-05 21:18:20 Vaccinations per capita for 19122 on 2021-11-05 15:00:02: 0.4058
+2023-12-05 21:18:20 Vaccinations per capita for 19123 on 2021-11-05 15:00:02: 0.5255
+2023-12-05 21:18:20 Vaccinations per capita for 19124 on 2021-11-05 15:00:02: 0.4166
+2023-12-05 21:18:20 Vaccinations per capita for 19125 on 2021-11-05 15:00:02: 0.5467
+2023-12-05 21:18:20 Vaccinations per capita for 19126 on 2021-11-05 15:00:02: 0.4250
+2023-12-05 21:18:20 Vaccinations per capita for 19127 on 2021-11-05 15:00:02: 0.4122
+2023-12-05 21:18:20 Vaccinations per capita for 19128 on 2021-11-05 15:00:02: 0.4670
+2023-12-05 21:18:20 Vaccinations per capita for 19129 on 2021-11-05 15:00:02: 0.4826
+2023-12-05 21:18:20 Vaccinations per capita for 19130 on 2021-11-05 15:00:02: 0.5077
+2023-12-05 21:18:20 Vaccinations per capita for 19131 on 2021-11-05 15:00:02: 0.3843
+2023-12-05 21:18:20 Vaccinations per capita for 19132 on 2021-11-05 15:00:02: 0.3977
+2023-12-05 21:18:20 Vaccinations per capita for 19133 on 2021-11-05 15:00:02: 0.4308
+2023-12-05 21:18:20 Vaccinations per capita for 19134 on 2021-11-05 15:00:02: 0.4204
+2023-12-05 21:18:20 Vaccinations per capita for 19135 on 2021-11-05 15:00:02: 0.3940
+2023-12-05 21:18:20 Vaccinations per capita for 19136 on 2021-11-05 15:00:02: 0.4145
+2023-12-05 21:18:20 Vaccinations per capita for 19137 on 2021-11-05 15:00:02: 0.4018
+2023-12-05 21:18:20 Vaccinations per capita for 19138 on 2021-11-05 15:00:02: 0.4014
+2023-12-05 21:18:20 Vaccinations per capita for 19139 on 2021-11-05 15:00:02: 0.3955
+2023-12-05 21:18:20 Vaccinations per capita for 19140 on 2021-11-05 15:00:02: 0.4235
+2023-12-05 21:18:20 Vaccinations per capita for 19141 on 2021-11-05 15:00:02: 0.3803
+2023-12-05 21:18:20 Vaccinations per capita for 19142 on 2021-11-05 15:00:02: 0.3719
+2023-12-05 21:18:20 Vaccinations per capita for 19143 on 2021-11-05 15:00:02: 0.4309
+2023-12-05 21:18:20 Vaccinations per capita for 19144 on 2021-11-05 15:00:02: 0.4063
+2023-12-05 21:18:20 Vaccinations per capita for 19145 on 2021-11-05 15:00:02: 0.5481
+2023-12-05 21:18:20 Vaccinations per capita for 19146 on 2021-11-05 15:00:02: 0.5854
+2023-12-05 21:18:20 Vaccinations per capita for 19147 on 2021-11-05 15:00:02: 0.5897
+2023-12-05 21:18:20 Vaccinations per capita for 19148 on 2021-11-05 15:00:02: 0.5642
+2023-12-05 21:18:20 Vaccinations per capita for 19149 on 2021-11-05 15:00:02: 0.4701
+2023-12-05 21:18:20 Vaccinations per capita for 19150 on 2021-11-05 15:00:02: 0.4686
+2023-12-05 21:18:20 Vaccinations per capita for 19151 on 2021-11-05 15:00:02: 0.3754
+2023-12-05 21:18:20 Vaccinations per capita for 19152 on 2021-11-05 15:00:02: 0.5040
+2023-12-05 21:18:20 Vaccinations per capita for 19153 on 2021-11-05 15:00:02: 0.4362
+2023-12-05 21:18:20 Vaccinations per capita for 19154 on 2021-11-05 15:00:02: 0.4342
+2023-12-05 21:18:20 Vaccinations per capita for 19155 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19156 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19157 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19158 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19160 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19161 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19162 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19170 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19171 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19172 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19174 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19176 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19177 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19178 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19179 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19181 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19182 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19183 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19184 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19188 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19190 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19191 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19192 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19193 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19194 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19195 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19196 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 Vaccinations per capita for 19197 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:18:20 User input: 0
+2023-12-05 21:28:21 Command line arguments: --covid=covid_data.json --population=population.csv --log=small_test1.log
+2023-12-05 21:28:21 Population data loaded from population.csv
+2023-12-05 21:28:22 Vaccination data file: covid_data.json
+2023-12-05 21:28:22 Property data loaded from null
+2023-12-05 21:28:22 User input: 3
+2023-12-05 21:28:22 Vaccination type: 
+2023-12-05 21:28:22 Vaccination type: full
+2023-12-05 21:28:22 Date: 2021-11-05
+2023-12-05 21:28:22 Vaccinations per capita for 19100 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19101 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19102 on 2021-11-05 15:00:02: 0.4851
+2023-12-05 21:28:22 Vaccinations per capita for 19103 on 2021-11-05 15:00:02: 0.5488
+2023-12-05 21:28:22 Vaccinations per capita for 19104 on 2021-11-05 15:00:02: 0.4623
+2023-12-05 21:28:22 Vaccinations per capita for 19105 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19106 on 2021-11-05 15:00:02: 0.4836
+2023-12-05 21:28:22 Vaccinations per capita for 19107 on 2021-11-05 15:00:02: 0.5716
+2023-12-05 21:28:22 Vaccinations per capita for 19108 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19109 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19110 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19111 on 2021-11-05 15:00:02: 0.4575
+2023-12-05 21:28:22 Vaccinations per capita for 19112 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19113 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19114 on 2021-11-05 15:00:02: 0.4634
+2023-12-05 21:28:22 Vaccinations per capita for 19115 on 2021-11-05 15:00:02: 0.4785
+2023-12-05 21:28:22 Vaccinations per capita for 19116 on 2021-11-05 15:00:02: 0.3955
+2023-12-05 21:28:22 Vaccinations per capita for 19117 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19118 on 2021-11-05 15:00:02: 0.4870
+2023-12-05 21:28:22 Vaccinations per capita for 19119 on 2021-11-05 15:00:02: 0.5061
+2023-12-05 21:28:22 Vaccinations per capita for 19120 on 2021-11-05 15:00:02: 0.4396
+2023-12-05 21:28:22 Vaccinations per capita for 19121 on 2021-11-05 15:00:02: 0.3834
+2023-12-05 21:28:22 Vaccinations per capita for 19122 on 2021-11-05 15:00:02: 0.4058
+2023-12-05 21:28:22 Vaccinations per capita for 19123 on 2021-11-05 15:00:02: 0.5255
+2023-12-05 21:28:22 Vaccinations per capita for 19124 on 2021-11-05 15:00:02: 0.4166
+2023-12-05 21:28:22 Vaccinations per capita for 19125 on 2021-11-05 15:00:02: 0.5467
+2023-12-05 21:28:22 Vaccinations per capita for 19126 on 2021-11-05 15:00:02: 0.4250
+2023-12-05 21:28:22 Vaccinations per capita for 19127 on 2021-11-05 15:00:02: 0.4122
+2023-12-05 21:28:22 Vaccinations per capita for 19128 on 2021-11-05 15:00:02: 0.4670
+2023-12-05 21:28:22 Vaccinations per capita for 19129 on 2021-11-05 15:00:02: 0.4826
+2023-12-05 21:28:22 Vaccinations per capita for 19130 on 2021-11-05 15:00:02: 0.5077
+2023-12-05 21:28:22 Vaccinations per capita for 19131 on 2021-11-05 15:00:02: 0.3843
+2023-12-05 21:28:22 Vaccinations per capita for 19132 on 2021-11-05 15:00:02: 0.3977
+2023-12-05 21:28:22 Vaccinations per capita for 19133 on 2021-11-05 15:00:02: 0.4308
+2023-12-05 21:28:22 Vaccinations per capita for 19134 on 2021-11-05 15:00:02: 0.4204
+2023-12-05 21:28:22 Vaccinations per capita for 19135 on 2021-11-05 15:00:02: 0.3940
+2023-12-05 21:28:22 Vaccinations per capita for 19136 on 2021-11-05 15:00:02: 0.4145
+2023-12-05 21:28:22 Vaccinations per capita for 19137 on 2021-11-05 15:00:02: 0.4018
+2023-12-05 21:28:22 Vaccinations per capita for 19138 on 2021-11-05 15:00:02: 0.4014
+2023-12-05 21:28:22 Vaccinations per capita for 19139 on 2021-11-05 15:00:02: 0.3955
+2023-12-05 21:28:22 Vaccinations per capita for 19140 on 2021-11-05 15:00:02: 0.4235
+2023-12-05 21:28:22 Vaccinations per capita for 19141 on 2021-11-05 15:00:02: 0.3803
+2023-12-05 21:28:22 Vaccinations per capita for 19142 on 2021-11-05 15:00:02: 0.3719
+2023-12-05 21:28:22 Vaccinations per capita for 19143 on 2021-11-05 15:00:02: 0.4309
+2023-12-05 21:28:22 Vaccinations per capita for 19144 on 2021-11-05 15:00:02: 0.4063
+2023-12-05 21:28:22 Vaccinations per capita for 19145 on 2021-11-05 15:00:02: 0.5481
+2023-12-05 21:28:22 Vaccinations per capita for 19146 on 2021-11-05 15:00:02: 0.5854
+2023-12-05 21:28:22 Vaccinations per capita for 19147 on 2021-11-05 15:00:02: 0.5897
+2023-12-05 21:28:22 Vaccinations per capita for 19148 on 2021-11-05 15:00:02: 0.5642
+2023-12-05 21:28:22 Vaccinations per capita for 19149 on 2021-11-05 15:00:02: 0.4701
+2023-12-05 21:28:22 Vaccinations per capita for 19150 on 2021-11-05 15:00:02: 0.4686
+2023-12-05 21:28:22 Vaccinations per capita for 19151 on 2021-11-05 15:00:02: 0.3754
+2023-12-05 21:28:22 Vaccinations per capita for 19152 on 2021-11-05 15:00:02: 0.5040
+2023-12-05 21:28:22 Vaccinations per capita for 19153 on 2021-11-05 15:00:02: 0.4362
+2023-12-05 21:28:22 Vaccinations per capita for 19154 on 2021-11-05 15:00:02: 0.4342
+2023-12-05 21:28:22 Vaccinations per capita for 19155 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19156 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19157 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19158 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19160 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19161 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19162 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19170 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19171 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19172 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19174 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19176 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19177 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19178 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19179 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19181 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19182 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19183 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19184 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19188 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19190 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19191 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19192 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19193 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19194 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19195 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19196 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 Vaccinations per capita for 19197 on 2021-11-05 15:00:02: 0.0000
+2023-12-05 21:28:22 User input: 0

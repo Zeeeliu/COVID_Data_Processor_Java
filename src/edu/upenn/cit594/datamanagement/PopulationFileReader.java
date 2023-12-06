@@ -1,61 +1,44 @@
 package edu.upenn.cit594.datamanagement;
-
-import java.io.BufferedReader;
-import java.io.FileReader;
+import edu.upenn.cit594.util.validateData;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 
+/**
+ * Reads population data from a CSV file and creates a list of Population objects.
+ */
 public class PopulationFileReader implements DataReader<Population> {
+
+    /**
+     * Reads population data from the specified CSV file.
+     * Records will be skipped if the ZIP Code is not exactly 5 digits or the population figure is not an integer.
+     *
+     * @param fileName The name of the file to read from.
+     * @return A list of Population objects representing the data in the file.
+     */
     @Override
     public List<Population> readData(String fileName) {
         List<Population> populations = new ArrayList<>();
+        try (CSVReader csvReader = new CSVReader(fileName)) {
+            Map<String, String> row;
+            while ((row = csvReader.readRowAsDict()) != null) {
+                try {
+                    int population = validateData.parseIntOrZero(row.get("population").trim());
+                    String zipCode = row.get("zip_code").trim();
 
-        try (BufferedReader br = new BufferedReader(new FileReader(fileName))) {
-            String line;
-            br.readLine(); // Skip header line
-            while ((line = br.readLine()) != null) {
-                String[] parts = line.split(",");
-                if (parts.length >= 2) {
-                    String zipCode = parts[0].trim();
-                    int population = parseIntOrZero(parts[1].trim());
-
-                    if (isValidZipCode(zipCode) && isValidPopulation(population)) {
+                    if (validateData.isValidZipCode(zipCode) && validateData.isPopulationValid(population)) {
                         Population populationData = new Population(zipCode, population);
                         populations.add(populationData);
-                    }
-                    else {
+                    } else {
                         System.out.println("Invalid data - zipCode: " + zipCode + ", population: " + population);
                     }
+                } catch (Exception e) {
+                    System.err.println("Error reading population data: " + e.getMessage());
                 }
             }
         } catch (Exception e) {
-            System.err.println("Error reading population data: " + e.getMessage());
+            System.err.println("Error opening CSV file: " + e.getMessage());
         }
-
         return populations;
-    }
-
-    private int parseIntOrZero(String value) {
-        try {
-            return Integer.parseInt(value);
-        } catch (NumberFormatException e) {
-            return 0;
-        }
-    }
-
-    private boolean isValid(String value) {
-        return value != null && !value.trim().isEmpty();
-    }
-
-    private boolean isValidZipCode(String zipCode) {
-        if (isValid(zipCode)) {
-            zipCode = zipCode.replaceAll("\"", "").trim();
-            return zipCode.matches("\\d{5}");
-        }
-        return false;
-    }
-
-    private boolean isValidPopulation(int population) {
-        return population >= 0;  // Assuming population cannot be negative
     }
 }

@@ -5,6 +5,9 @@ import edu.upenn.cit594.util.getParameter;
 
 import java.util.Scanner;
 
+/**
+ * Main processor class for handling different types of data processing based on user input.
+ */
 public class DataProcessor {
     Logger logger = Logger.getInstance();
     private final PopulationDataProcessor populationDataProcessor;
@@ -12,6 +15,15 @@ public class DataProcessor {
     private final PropertyDataProcessor propertyDataProcessor;
 
     private final getParameter getParameter;
+
+    /**
+     * Constructor for DataProcessor.
+     *
+     * @param populationDataProcessor A processor for population data.
+     * @param vaccinationDataProcessor A processor for vaccination data.
+     * @param propertyDataProcessor A processor for property data.
+     * @param getParameter A utility for getting parameters from user input.
+     */
     public DataProcessor(PopulationDataProcessor populationDataProcessor, VaccinationDataProcessor vaccinationDataProcessor,
                             PropertyDataProcessor propertyDataProcessor, getParameter getParameter) {
         this.populationDataProcessor = populationDataProcessor;
@@ -20,6 +32,9 @@ public class DataProcessor {
         this.getParameter = getParameter;
     }
 
+    /**
+     * Displays the total population from the population data.
+     */
     public void showTotalPopulation() {
         try {
             int totalPopulation = populationDataProcessor.getTotalPopulation();
@@ -29,27 +44,60 @@ public class DataProcessor {
             System.out.println("END OUTPUT");
         } catch (Exception e) {
             System.out.println("Error: Unable to retrieve total population. Please make sure the population file is provided.");
+            logger.logEvent("Error displaying total population: " + e.getMessage());
         }
     }
+
+
+    /**
+     * Displays the total full or partial vaccinations per capita for each ZIP Code for a given date.
+     * @param scanner The scanner to read user input.
+     */
     public void showVaccinationsPerCapita(Scanner scanner) {
         try {
             vaccinationDataProcessor.showVaccinationsPerCapita(scanner);
         } catch (Exception e) {
-            System.out.println(e.getMessage());
+            System.out.println("Error: Unable to retrieve vaccination per capita.");
+            logger.logEvent("Error displaying vaccinations per capita: " + e.getMessage());
         }
     }
+
+
+    /**
+     * Displays the average property metric (either market value or total livable area) for a specified ZIP Code.
+     * @param calculator The calculator to use for the property metric.
+     * @param scanner The scanner to read user input.
+     */
     public void showAveragePropertyMetric(PropertyAverageCalculator calculator,Scanner scanner) {
-        propertyDataProcessor.setCalculator(calculator);
-        String zipCode = getParameter.getZipCode(scanner);
-        propertyDataProcessor.showAveragePropertyMetric(zipCode);
-
+        try {
+            propertyDataProcessor.setCalculator(calculator);
+            String zipCode = getParameter.getZipCode(scanner);
+            propertyDataProcessor.showAveragePropertyMetric(zipCode);
+        } catch (Exception e) {
+            System.out.println("Error: Unable to retrieve average property metric for ZIP Code. ");
+            logger.logEvent("Error displaying average property metric: " + e.getMessage());
+        }
     }
 
+
+    /**
+     * Displays the total market value per capita for properties in a specified ZIP Code.
+     * @param scanner The scanner to read user input.
+     */
     public void showTotalMarketValuePerCapita(Scanner scanner) {
-        String zipCode = getParameter.getZipCode(scanner);
-        propertyDataProcessor.getTotalMarketValuePerCapita(zipCode);
+        try {
+            String zipCode = getParameter.getZipCode(scanner);
+            propertyDataProcessor.getTotalMarketValuePerCapita(zipCode);
+        } catch (Exception e) {
+            System.out.println("Error: Unable to retrieve total market value per capita for ZIP Code. ");
+            logger.logEvent("Error displaying total market value per capita: " + e.getMessage());
+        }
     }
 
+
+    /**
+     * Displays a list of the currently available actions.
+     */
     public void showAvailableActions() {
         System.out.println("BEGIN OUTPUT");
         AvailableActions[] availableActions = AvailableActions.values();
@@ -71,6 +119,10 @@ public class DataProcessor {
         System.out.println("END OUTPUT");
     }
 
+
+    /**
+     * Displays the total number of fully vaccinated individuals across all ZIP codes.
+     */
     public void showTotalFullVaccinations() {
         try {
             System.out.println("BEGIN OUTPUT");

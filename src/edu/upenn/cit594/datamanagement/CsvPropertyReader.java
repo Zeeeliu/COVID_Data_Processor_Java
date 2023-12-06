@@ -1,34 +1,37 @@
 package edu.upenn.cit594.datamanagement;
-
-import edu.upenn.cit594.logging.Logger;
-
-import java.io.BufferedReader;
-import java.io.FileReader;
+import edu.upenn.cit594.util.validateData;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 
+/**
+ * Reads property data from a CSV file and creates a list of Property objects.
+ * The class implements DataReader interface for the Property data type.
+ *
+ */
 public class CsvPropertyReader implements DataReader<Property> {
-    Logger logger = Logger.getInstance();
+    /**
+     * Reads property data from the specified CSV file.
+     *
+     * @param fileName The name of the file to read from.
+     * @return A list of Property objects representing the data in the file.
+     */
     @Override
     public List<Property> readData(String fileName) {
         List<Property> properties = new ArrayList<>();
+        try (CSVReader csvReader = new CSVReader(fileName)) {
 
-        try (BufferedReader br = new BufferedReader(new FileReader(fileName))) {
-            br.readLine(); // Skip header line
-            String line;
-            while ((line = br.readLine()) != null) {
-                String[] nextRecord = line.split(",");
-                if (nextRecord.length < 3) {
-                    continue;  // Skip incomplete records
-                }
-
-                String totalLivableAreaStr = nextRecord[0].trim();
-                String marketValueStr = nextRecord[1].trim();
-                String zipCode = extractFirstFiveDigits(nextRecord[2].trim());
+            Map<String, String> row;
+            while ((row = csvReader.readRowAsDict()) != null) {
+                String totalLivableAreaStr = row.get("total_livable_area").trim();
+                String marketValueStr = row.get("market_value").trim();
+                String zipCode = extractFirstFiveDigits(row.get("zip_code").trim());
 
                 try {
-                    double totalLivableArea = isValidNumeric(totalLivableAreaStr) ? parseDoubleOrFlag(totalLivableAreaStr) : Double.NaN;
-                    double marketValue = isValidNumeric(marketValueStr) ? Double.parseDouble(marketValueStr) : Double.NaN;
+                    double totalLivableArea = validateData.isValidNumeric(totalLivableAreaStr) ?
+                            validateData.parseDoubleOrFlag(totalLivableAreaStr) : Double.NaN;
+                    double marketValue = validateData.isValidNumeric(marketValueStr) ?
+                            Double.parseDouble(marketValueStr) : Double.NaN;
 
                     Property property = new Property(totalLivableArea, marketValue, zipCode);
                     properties.add(property);
@@ -40,12 +43,18 @@ public class CsvPropertyReader implements DataReader<Property> {
         } catch (Exception e) {
             System.err.println("Error reading property data: " + e.getMessage());
         }
-
         return properties;
     }
 
+    /**
+     * Extracts the first five digits of a ZIP code string.
+     * If the first five characters are not all numeric, it returns an empty string.
+     *
+     * @param zipCode The ZIP code string to process.
+     * @return The first five digits of the ZIP code, or an empty string if invalid.
+     */
     private String extractFirstFiveDigits(String zipCode) {
-        if (isValidZipCode(zipCode)) {
+        if (validateData.isValidZipCode(zipCode)) {
             // Extract first 5 characters and ensure they are all numeric
             String firstFiveDigits = zipCode.substring(0, Math.min(5, zipCode.length()));
             if (firstFiveDigits.matches("\\d+")) {
@@ -53,32 +62,5 @@ public class CsvPropertyReader implements DataReader<Property> {
             }
         }
         return "";
-    }
-    private boolean isValid(String value) {
-        return value != null && !value.trim().isEmpty();
-    }
-
-    private boolean isValidZipCode(String zipCode) {
-        return zipCode != null && zipCode.length() >= 5 && zipCode.matches("\\d+");
-    }
-
-    private boolean isValidNumeric(String value) {
-        return isValid(value) && value.matches("-?\\d+(\\.\\d+)?");
-    }
-
-    private double parseDoubleOrZero(String value) {
-        try {
-            return Double.parseDouble(value);
-        } catch (NumberFormatException e) {
-            return 0.0;
-        }
-    }
-
-    private double parseDoubleOrFlag(String value) {
-        try {
-            return Double.parseDouble(value);
-        } catch (NumberFormatException e) {
-            return Double.NaN;  // Set to a flag value for non-numeric
-        }
     }
 }

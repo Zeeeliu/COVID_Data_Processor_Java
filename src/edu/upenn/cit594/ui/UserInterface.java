@@ -7,10 +7,18 @@ import edu.upenn.cit594.processor.DataProcessor;
 
 import java.util.Scanner;
 
+/**
+ * User interface for the application.
+ */
 public class UserInterface {
     Logger logger = Logger.getInstance();
     private DataProcessor dataProcessor;
 
+    /**
+     * Constructs a UserInterface with a specified DataProcessor.
+     *
+     * @param dataProcessor The data processor to handle user actions.
+     */
     public UserInterface(DataProcessor dataProcessor) {
         this.dataProcessor = dataProcessor;
     }
@@ -42,7 +50,6 @@ public class UserInterface {
                 case 4:
                     dataProcessor.showAveragePropertyMetric(new AverageMarketValueCalculator(),scanner);
                     break;
-
                 case 5:
                     dataProcessor.showAveragePropertyMetric(new AverageTotalLivableAreaCalculator(),scanner);
                     break;
@@ -69,6 +76,13 @@ public class UserInterface {
         System.out.println("7. Show the total fully vaccinated across all ZIP codes");
     }
 
+
+    /**
+     * Reads an integer input from the user, and validate the input.
+     *
+     * @param scanner The scanner to read user input.
+     * @return The valid integer input from the user.
+     */
     private int readIntInput(Scanner scanner) {
         while (!scanner.hasNextInt()) {
             System.out.println(scanner.next());
