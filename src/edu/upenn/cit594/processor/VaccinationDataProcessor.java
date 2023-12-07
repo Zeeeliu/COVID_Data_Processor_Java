@@ -1,10 +1,8 @@
 package edu.upenn.cit594.processor;
-
 import edu.upenn.cit594.datamanagement.CSVFormatException;
 import edu.upenn.cit594.datamanagement.Vaccination;
 import edu.upenn.cit594.datamanagement.DataReader;
 import edu.upenn.cit594.logging.Logger;
-
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.*;
@@ -200,7 +198,7 @@ public class VaccinationDataProcessor {
     /**
      * Displays the total number of fully vaccinated individuals by ZIP code.
      */
-    public void showTotalFullyVaccinatedByZipCode() {
+    public int showTotalFullyVaccinatedByZipCode() {
 
             // Group vaccinations by ZIP code and find the maximum "fully_vaccinated" count for each ZIP code
             Map<String, DoubleSummaryStatistics> summaryByZipCode = vaccinationData.stream()
@@ -213,9 +211,11 @@ public class VaccinationDataProcessor {
             double totalFullyVaccinated = summaryByZipCode.values().stream()
                     .mapToDouble(DoubleSummaryStatistics::getMax)
                     .sum();
-            // Display the result
-            System.out.println((int)totalFullyVaccinated);
-            logger.logEvent("Total fully vaccinated: " + (int)totalFullyVaccinated);
 
+            // Display the result
+//            System.out.println((int)totalFullyVaccinated);
+            logger.logEvent("Total fully vaccinated: " + (int)totalFullyVaccinated);
+        return (int)totalFullyVaccinated;
     }
+
 }

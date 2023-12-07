@@ -1,10 +1,8 @@
 package edu.upenn.cit594.processor;
-
 import edu.upenn.cit594.datamanagement.CSVFormatException;
 import edu.upenn.cit594.datamanagement.DataReader;
 import edu.upenn.cit594.datamanagement.Population;
 import edu.upenn.cit594.logging.Logger;
-
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.List;

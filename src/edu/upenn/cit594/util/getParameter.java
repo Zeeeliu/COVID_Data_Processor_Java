@@ -1,5 +1,4 @@
 package edu.upenn.cit594.util;
-
 import java.util.Scanner;
 
 public class getParameter {

@@ -4,6 +4,7 @@ import edu.upenn.cit594.logging.Logger;
 import edu.upenn.cit594.util.getParameter;
 
 import java.util.Scanner;
+import java.util.Set;
 
 /**
  * Main processor class for handling different types of data processing based on user input.
@@ -121,16 +122,38 @@ public class DataProcessor {
 
 
     /**
-     * Displays the total number of fully vaccinated individuals across all ZIP codes.
+     * Custom Feature: Displays the correlation of full vaccinations rate and average market value of a region (across all zip code given)
      */
-    public void showTotalFullVaccinations() {
+    public void showFullyVaxRateToHouseValueCorrelation() {
         try {
             System.out.println("BEGIN OUTPUT");
-            vaccinationDataProcessor.showTotalFullyVaccinatedByZipCode();
+
+            // Total number of fully vaccinated individuals
+            int totalFullyVaccinated = vaccinationDataProcessor.showTotalFullyVaccinatedByZipCode();
+            System.out.println("Total number of fully vaccinated individuals: " + totalFullyVaccinated);
+
+            // Total population
+            int totalPopulation = populationDataProcessor.getTotalPopulation();
+            System.out.println("Total Population: " + totalPopulation);
+
+            // Vaccination rate calculation
+            Double totalVaxRate = totalPopulation != 0 ? (double) totalFullyVaccinated / totalPopulation * 100 : 0.0;
+            System.out.println("Total fully vaccination rate (%): " + String.format("%.2f", totalVaxRate));
+
+            // Average market value across all ZIP codes
+            double averageMarketValue = propertyDataProcessor.showAverageMarketValue();
+            System.out.println("Average market value of all properties: " + String.format("%.2f", averageMarketValue));
+
+            // display the correlation
+            System.out.println("In an area where average property value is: " +
+                    String.format("%.2f", averageMarketValue) + ", the fully vaccination rate is " +
+                    String.format("%.2f", totalVaxRate) + "%");
+
             System.out.println("END OUTPUT");
         } catch (Exception e) {
-            System.out.println("Error: Unable to retrieve total full vaccinations. Please make sure the vaccination file is provided.");
+            System.out.println("Error: Unable to calculate FullyVaxRateToHouseValueCorrelation.");
         }
     }
+
 
 }

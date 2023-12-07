@@ -1,10 +1,8 @@
 package edu.upenn.cit594.ui;
-
 import edu.upenn.cit594.logging.Logger;
 import edu.upenn.cit594.processor.AverageMarketValueCalculator;
 import edu.upenn.cit594.processor.AverageTotalLivableAreaCalculator;
 import edu.upenn.cit594.processor.DataProcessor;
-
 import java.util.Scanner;
 
 /**
@@ -57,7 +55,7 @@ public class UserInterface {
                     dataProcessor.showTotalMarketValuePerCapita(scanner);
                     break;
                 case 7:
-                    dataProcessor.showTotalFullVaccinations();
+                    dataProcessor.showFullyVaxRateToHouseValueCorrelation();
                     break;
                 default:
                     System.out.println("Error: Invalid choice. Please enter a number between 0 and 7.");
@@ -73,7 +71,7 @@ public class UserInterface {
         System.out.println("4. Show the average market value for properties in a specified ZIP Code.");
         System.out.println("5. Show the average total livable area for properties in a specified ZIP Code.");
         System.out.println("6. Show the total market value of properties, per capita, for a specified ZIP Code.");
-        System.out.println("7. Show the total fully vaccinated across all ZIP codes");
+        System.out.println("7. Show the fully vaccination rate in relations to average house value across all ZIP codes");
     }
 
 

@@ -145,4 +145,28 @@ public class PropertyDataProcessor {
         this.calculator = calculator;
     }
 
+
+    /**
+     * Displays the average market value of properties across all properties in the area.
+     */
+    public double showAverageMarketValue() {
+        // Sum the market values for all properties
+        double totalMarketValue = propertyData.stream()
+                .filter(property -> !Double.isNaN(property.getMarketValue()))
+                .mapToDouble(Property::getMarketValue)
+                .sum();
+
+        // Count the total number of properties
+        long totalNumberOfProperties = propertyData.stream()
+                .filter(property -> !Double.isNaN(property.getMarketValue()))
+                .count();
+
+        // Calculate the average market value across all properties
+        double averageMarketValue = totalNumberOfProperties > 0 ? totalMarketValue / totalNumberOfProperties : 0;
+
+        // Display the result
+        logger.logEvent("Average market value of properties: " + averageMarketValue);
+        return averageMarketValue;
+    }
+
 }

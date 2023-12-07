@@ -12,7 +12,7 @@ public enum AvailableActions {
     SHOW_AVERAGE_MARKET_VALUE(4, "properties"),
     SHOW_AVERAGE_TOTAL_LIVABLE_AREA(5, "properties"),
     SHOW_TOTAL_MARKET_VALUE_PER_CAPITA(6, "properties", "population"),
-    SHOW_CUSTOM_FEATURE(7, "covid");
+    SHOW_CUSTOM_FEATURE(7, "covid", "properties", "population");
 
     private final int actionNumber;
     private final String[] requiredParameters;
